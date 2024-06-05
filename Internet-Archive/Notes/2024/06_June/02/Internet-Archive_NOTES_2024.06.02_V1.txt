@@ -1,0 +1,23 @@
+
+***
+
+FireZoo_Smash-Dude-sound-effects
+
+A collection of all sound effects from the classic iOS mobile game Smash Dude, taken from a 2015 IPA file of the game.
+
+Audio track listing
+
+MP3/M4A
+
+crackle.mp3
+fire.mp3
+fizz.m4a
+hum.m4a
+laser.mp3
+laugh.mp3
+zap.mp3
+
+firezoo,firezoo audio,firezoo sfx,firezoo sound effects,firezoo smash dude,firezoo smash,firezoo smash dude audio,firezoo smash dude sfx,firezoo smash dude sound effects,smash dude,smash dude audio,smash dude sound effects,smash dude sfx,ios,mp3,m4a,audio,sound effects,sfx,video game audio,video game sfx,video game sound effects
+
+***
+

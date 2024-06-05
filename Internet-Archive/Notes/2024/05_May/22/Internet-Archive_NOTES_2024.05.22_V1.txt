@@ -1,0 +1,35 @@
+
+***
+
+Apple_iOS-6_Sounds
+
+Sound effects from the mobile operating system iOS 6 (2012) by Apple. This is a major work in progress. If anyone can find a dump of the raw system sounds, send me a link, and I will upload them here if applicable.
+
+Audio track listing
+
+MP3
+
+iOS-6-Battery-sound.mp3
+iOS-6-RAW-System-Sounds.mp3
+
+OGG
+
+iOS-6-Battery-sound.ogg
+iOS-6-RAW-System-Sounds.ogg
+
+Video track listing
+
+WebM
+
+iOS 6 Battery sound.webm
+
+MP4
+
+iOS 6 RAW System Sounds.mp4
+
+On an unrelated note, if anyone knows how to emulate iOS 6 in a virtual machine, I would love to know.
+
+apple,ios,ios 6,ios 6 audio,ios 6 sound effects,ios 6 sfx,sfx,sound effects,operating system sound effects,operating system sfx,mobile operating system sound effects,mobile operating system sfx,apple ios 6,apple ios 6 sound effects,mp3,ogg,webm,mp4
+
+***
+

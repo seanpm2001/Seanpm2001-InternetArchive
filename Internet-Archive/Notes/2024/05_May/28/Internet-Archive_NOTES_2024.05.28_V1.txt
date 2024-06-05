@@ -1,0 +1,22 @@
+
+***
+
+GNOME_Quadrapassal-SoundEffects
+
+All of the original sound effects for the GNOME game, Quadrapassal (2021) in OGG format. Quadrapassal is an open source alternative to Tetris.
+
+Sound effect list:
+
+gameover.ogg
+land.ogg
+lines1.ogg
+lines2.ogg
+lines3.ogg
+quadrapassel.ogg
+slide.ogg
+turn.ogg
+
+gnome,gnome quadrapassal,gnome sound effects,gnome sfx,gnome audio,gnome games,games,linux,linux games,linux audio,linux sound effects,linux sfx,quadrapassal,quadrapassal sfx,quadrapassal sound effects,quadrapassal audio,tetris,tetris alternative,ogg,sound effects,audio
+
+***
+

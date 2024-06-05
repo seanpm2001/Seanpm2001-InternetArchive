@@ -1,0 +1,37 @@
+
+***
+
+Djinnworks_Line-Birds_SoundEffects
+
+A collection of sound effects from the classic mobile video game, Line Birds (2011) by Djinnworks. Extracted from the iOS package file of the last version of the game.
+
+Audio track listing
+
+OGG
+
+belch06.ogg
+bite.ogg
+click.ogg
+gravel1.ogg
+gravel2.ogg
+holdheight.ogg
+lb_appear.ogg
+lb_fade3.ogg
+lb_flap2.ogg
+lb_rock.ogg
+ls_hit1.ogg
+ls_hit2.ogg
+ls_plane22.ogg
+ls_rope.ogg
+rustle.ogg
+shot.ogg
+soundtrack.ogg
+stonebreak.ogg
+timenormal.ogg
+timeslow.ogg
+woom.ogg
+
+djinnworks,djinnworks audio,djinnworks sound effects,djinnworks sfx,djinnworks line birds,line birds,line,birds,audio,sound effects,sfx,video game,video games,video game sfx,video game sound effects,mobile video game,mobile video games,mobile video game sound effects,mobile video game sfx,mobile video game audio,video game audio,line birds audio,line birds soundtrack,line birds sound effects,ogg
+
+***
+

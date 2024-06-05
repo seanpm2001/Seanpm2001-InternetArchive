@@ -1,0 +1,136 @@
+
+***
+
+Google_Android-Nougat-Alarms_2016
+
+All of the original new alarm tones from Android Nougat (2016) in OGG format.
+
+Ringtone list:
+
+Argon.ogg
+Carbon.ogg
+Helium.ogg
+Krypton.ogg
+Neon.ogg
+Osmium.ogg
+Oxygen.ogg
+Platinum.ogg
+Timer.ogg
+
+android,android nougat,nougat,android alarms,alarms,google,google alarms,alarm tones,ogg,audio,sound effects,sfx
+
+***
+
+Google_Android-Nougat-Notifications_2016
+
+All of the original new notification sounds from Android Nougat (2016) in OGG format.
+
+Ringtone list:
+
+Ariel.ogg
+Carme.ogg
+Ceres.ogg
+Elara.ogg
+Europa.ogg
+Iapetus.ogg
+Io.ogg
+Rhea.ogg
+Salacia.ogg
+Tethys.ogg
+Titan.ogg
+
+android,android nougat,nougat,android notification,notification,google,google notification sounds,notification sounds,ogg,audio,sound effects,sfx
+
+***
+
+Google_Android-Nougat-UI-Sounds_2016
+
+All of the original new UI sounds from Android Nougat (2016) in OGG format.
+
+Ringtone list:
+
+audio_end.ogg
+audio_initiate.ogg
+camera_click.ogg
+camera_focus.ogg
+Dock.ogg
+Effect_Tick.ogg
+KeypressDelete.ogg
+KeypressInvalid.ogg
+KeypressReturn.ogg
+KeypressSpacebar.ogg
+KeypressStandard.ogg
+Lock.ogg
+LowBattery.ogg
+NFCFailure.ogg
+NFCInitiated.ogg
+NFCSuccess.ogg
+NFCTransferComplete.ogg
+NFCTransferInitiated.ogg
+Trusted.ogg
+Undock.ogg
+Unlock.ogg
+VideoRecord.ogg
+VideoStop.ogg
+WirelessChargingStarted.ogg
+
+android,android nougat,nougat,android ui,ui sounds,google,google ui sounds,ui sounds,system sounds,android system sounds,ogg,audio,sound effects,sfx
+
+***
+
+Seanpm2001_GitHub-100million-celebration
+
+Footage of GitHubs celebratory animation of reaching 100 million users in 2023. Recorded on the @seanpm2001 GitHub profile.
+
+stock,video,github,github animations,100 million users,github 100 million users,git,github history,seanpm2001
+
+***
+
+Seanpm2001_GitHub-Calendar-bug_2024January1st
+
+Footage of a GitHub commit calendar (heatmap) bug on 2024 January 1st, where trying to look at data for 2024 results in a redirect to 2023 data. Recorded on the @seanpm2001 GitHub profile.
+
+stock,video,github,github bugs,github 2024,github commit calendar,github heatmap,git,github history,seanpm2001
+
+***
+
+Seanpm2001_GitHub-new-branch-behavior_2023December
+
+Footage of GitHubs new branch behavior on 2023, December 9th. Recorded on the @seanpm2001 GitHub profile.
+
+stock,video,github,github branches,git branches,github 2023,seanpm2001 github,git,github history,seanpm2001
+
+***
+
+Seanpm2001_GitHub-stats-A_WorkflowFailure_2023
+
+Footage of my GitHub Stats A repository having its workflow time out after 6 hours on 2023, August 6th. Recorded on the @seanpm2001 GitHub profile.
+
+stock,video,github,github workflow,github workflow failure,github actions,github actions failure,github stats a,github 2023,seanpm2001 github,git,github history,seanpm2001
+
+***
+
+Seanpm2001_Git-image-B_FolderTour_2023October
+
+Footage of my Git-image B folder from 2023 October 10th, showcasing logos of (almost) all of the games I have played in my life. Recorded on Ubuntu with GNOME Files/Nautilus
+
+stock,video,ubuntu,gnome,gnome nautilus,gnome files,linux,folderart,folder tour,icons,gaming,video games,file manager,tour,seanpm2001 game,,seanpm2001
+
+***
+
+Seanpm2001_Uploading-to-the-Internet-Archive_2024April
+
+Sample footage of an 2024 April 9th Internet Archive upload to show how it is done. Recorded by @seanpm2001
+
+stock,video,internet archive,uploading to the internet archive,uploading,upload process,2024,firefox,seanpm2001
+
+***
+
+Ubuntu-software-store-spinny
+
+The loading icon for the Ubuntu Software Store
+
+stock,video,ubuntu,ubuntu software store,loading,loading animation,linux,seanpm2001
+
+***
+

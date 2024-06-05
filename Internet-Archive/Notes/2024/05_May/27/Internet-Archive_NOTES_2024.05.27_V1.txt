@@ -1,0 +1,21 @@
+
+***
+
+KDE_Kapman-SoundEffects
+
+All of the original sound effects for the KDE game, Kapman (2007) in OGG format.
+
+Sound effect list:
+
+bonus.ogg  
+energizer.ogg
+gameover.ogg
+ghost.ogg
+levelup.ogg
+life.ogg
+pill.ogg
+
+kde,kde kapman,kde sound effects,kde sfx,kde audio,kde games,games,linux,linux games,linux audio,linux sound effects,linux sfx,kapman,kapman sfx,kapman sound effects,kapman audio,pacman,ogg,sound effects,audio
+
+***
+

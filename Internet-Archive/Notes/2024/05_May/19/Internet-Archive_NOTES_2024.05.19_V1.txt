@@ -1,0 +1,43 @@
+
+***
+
+MHGames_Jewels_SoundEffects
+
+A collection of sound effects from the classic mobile video game, Jewels (2008) by MHGames. Extracted from the Android package file of the last version of the game.
+
+Audio track listing
+
+MP3
+
+drop1.mp3
+drop2.mp3
+gameover.mp3
+glug2.mp3
+illegal_move.mp3
+nextlevel.mp3
+remove.mp3
+
+OGG
+
+drop1.ogg
+drop2.ogg
+gameover.ogg
+glug2.ogg
+illegal_move.ogg
+nextlevel.ogg
+remove.ogg
+
+WAV
+
+drop1.wav
+drop2.wav
+gameover.wav
+glug2.wav
+illegal_move.wav
+nextlevel.wav
+remove.wav
+
+mhgames,mhgames music,mhgames audio,mhgames sound effects,mhgames sfx,mhgames jewels,jewels,sound effects,sfx,audio,mp3,ogg,wav,video game,video game sound effects,video game audio,video game sounds,mobile game,mobile video game,mobile video game sound effects,mobile video game sfx,matching game,android,ios,classic mobile games
+
+***
+

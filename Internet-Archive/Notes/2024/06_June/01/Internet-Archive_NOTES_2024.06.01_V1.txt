@@ -1,0 +1,65 @@
+
+***
+
+Rovio_Angry-Birds-Ambience
+
+Ambient tracks for Angry Birds games. Currently only contains tracks from:
+
+Angry Birds (2009)
+Angry Birds Seasons (2010)
+Angry Birds Space (2012)
+
+The collection needs work. A lot of songs need to be converted to audio only, more tracks need to be added, and album art needs to be implemented.
+
+Track listing
+
+Audio Only
+
+M4A
+
+AngryBirdsSeasons_BackToSchool_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_EasterEggs_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_GoGreenGetLucky_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_Ham-o-ween_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_HogsAndKisses_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_MoonFestival_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_SummerPignic_BackgroundAmbientNoises.m4a
+AngryBirdsSeasons_YearOfTheDragon_BackgroundAmbientNoises.m4a
+AngryBirdsSpace_ColdCuts+FryMeToTheMoon_BackroundAmbientNoises.m4a
+AngryBirdsSpace_DangerZone_BackroundAmbientNoises.m4a
+AngryBirdsSpace_Eggsteroids_BackroundAmbientNoises.m4a
+AngryBirdsSpace_PigBang_BackroundAmbientNoises.m4a
+AngryBirdsSpace_RedPlanet_BackroundAmbientNoises.m4a
+
+Video with audio
+
+MP4
+
+AngryBirdsSeasons_HogsAndKisses_BackgroundAmbientNoises.mp4
+Birdday Party - Angry Birds Ambient Sounds.mp4
+Mine And Dine - Angry Birds Ambient Sounds.mp4
+(NoAudio)AngryBirdsSeasons_BackToSchool_BackgroundAmbientNoises.mp4
+(No audio) AngryBirdsSeasons_EasterEggs_BackgroundAmbientNoises.mp4
+(NoAudio)AngryBirdsSeasons_GoGreenGetLucky_BackgroundAmbientNoises.mp4
+(No audio) AngryBirdsSeasons_Ham-o-ween_BackgroundAmbientNoises.mp4
+(No audio) AngryBirdsSeasons_SummerPignic_BackgroundAmbientNoises.mp4
+(NoAudio)AngryBirdsSeasons_YearOfTheDragon_BackgroundAmbientNoises.mp4
+(NoAudio)AngryBirdsSpace_ColdCuts+FryMeToTheMoon_BackroundAmbientNoises.mp4
+(NoAudio)AngryBirdsSpace_DangerZone_BackroundAmbientNoises.mp4
+(NoAudio)AngryBirdsSpace_Eggsteroids_BackroundAmbientNoises.mp4
+(NoAudio)AngryBirdsSpace_PigBang_BackroundAmbientNoises.mp4
+(No audio) AngryBirdsSpace_RedPlanet_BackroundAmbientNoises.mp4
+(No audio) Angry Birds space Utopia background ambiance.mp4
+(No sound) AngryBirdsSeasons_MoonFestival_BackgroundAmbientNoises.mp4
+"Season's Greedings - Angry Birds Ambient Sounds.mp4"
+Surf And Turf - Angry Birds Ambient Sounds.mp4
+Trick Or Treat - Angry Birds Ambient Sounds.mp4
+
+WebM
+
+(No video) Angry Birds space Utopia background ambiance.webm
+
+rovio,rovio angry birds,rovio angry birds space,rovio angry birds seasons,angry birds,angry birds space,angry birds seasons,angry birds audio,angry birds seasons audio,angry birds space audio,ambient,angry birds ambience,angry birds space ambience,angry brids seasons ambience,audio,video game audio,video game ambience,ambience,background audio,m4a,mp4,video games
+
+***
+
