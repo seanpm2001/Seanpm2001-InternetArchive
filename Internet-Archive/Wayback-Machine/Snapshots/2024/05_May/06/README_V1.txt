@@ -1,0 +1,1 @@
+Archive.org doesn't give me the WARC file download option via email every time I request it. It has been very infrequent on failing to deliver lately. Today, I requested it on 3 different snapshots, and received no response. That is why this day has no entries. It was exactly the same as yesterday. This was the 3rd consecutive day that it did this.
