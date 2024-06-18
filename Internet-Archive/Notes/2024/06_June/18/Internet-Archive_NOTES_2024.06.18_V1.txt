@@ -1,0 +1,54 @@
+
+***
+
+Internet Archive upload notes 2024, Tuesday, June 18th
+
+***
+
+Canonical_Ubuntu_Startup-and-shutdown-sounds
+
+The startup and shutdown sounds for versions of Ubuntu from 4.10 to 24.04, along with the special XPS 13 first boot animation.
+
+Video track listing
+
+MP4
+
+'Ubuntu sounds-PQnDbwzoBqs.webm'
+'ubuntu dell XPS 13 first boot animation.mp4'
+'ubuntu startup and shutdown old and new.mp4'
+
+Audio track listing
+
+MP3
+
+'ubuntu dell XPS 13 first boot animation.mp3'
+'ubuntu startup and shutdown old and new.mp3'
+
+OGG
+
+Coming soon
+
+Other files
+
+'desktop.ini'
+
+canonical,ubuntu,ubuntu sounds,ubuntu audio,ubuntu sound effects,ubuntu sound effect,ubuntu sfx,linux,linux sounds,linux audio,linux sound effect,linux sound effects,linux sfx,audio,video,mkv,mp3,ogg,startup,sound,shutdown,startup sound,shutdown sound,dell,dell xps 13,dell xps 13 first boot,xps 13,ubuntu xps 13,ubuntu xps 13 boot,ubuntu xps 13 first boot,ubuntu xps 13 first boot animation,ubuntu xps 13 boot animation,ubuntu startup,ubuntu startup sound,ubuntu shutdown,ubuntu shutdown sound
+
+***
+
+Seanpm2001_Tiny-Tower-session-screenshots_2024June10th
+
+Screenshots from my 2024, Monday, June 10th Tiny Tower session, containing 1572 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit tiny,nimblebit tiny tower,tiny,tower,tiny tower,tiny tower screenshots,tiny tower images,tiny tower pictures,tiny tower photos,1080p,jpg,tt,2024,june,10th,tiny tower gameplay,tiny tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Bit-City-session-screenshots_2024June18th
+
+Screenshots from my 2024, Tuesday, June 18th Bit City session, containing 971 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit city,nimblebit bit,nimblebit bit city,bit,city,bit city,bit city screenshots,bit city images,bit city pictures,bit city photos,1080p,jpg,tt,2024,june,18th,bit city gameplay,bit city session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
