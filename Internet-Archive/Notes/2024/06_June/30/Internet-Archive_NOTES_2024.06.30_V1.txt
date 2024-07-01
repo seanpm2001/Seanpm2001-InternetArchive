@@ -1,0 +1,141 @@
+
+***
+
+Internet Archive upload notes 2024, Sunday, June 30th
+
+***
+
+Microsoft_Windows-10-System-Sounds
+
+The system sounds for Windows 10 (2015) taken from a system folder. Also contains an unofficial Windows 10 startup sound.
+
+Video track listing
+
+MP4
+
+Windows 10 Startup Sound_Tune-VCFGH3QfuOc.mp4
+
+Audio track listing
+
+WAV
+
+Alarm01.wav
+Alarm02.wav
+Alarm03.wav
+Alarm04.wav
+Alarm05.wav
+Alarm06.wav
+Alarm07.wav
+Alarm08.wav
+Alarm09.wav
+Alarm10.wav
+chimes.wav
+chord.wav
+ding.wav
+ir_begin.wav
+ir_end.wav
+ir_inter.wav
+notify.wav
+recycle.wav
+Ring01.wav
+Ring02.wav
+Ring03.wav
+Ring04.wav
+Ring05.wav
+Ring06.wav
+Ring07.wav
+Ring08.wav
+Ring09.wav
+Ring10.wav
+ringout.wav
+Speech Disambiguation.wav
+Speech Misrecognition.wav
+Speech Off.wav
+Speech On.wav
+Speech Sleep.wav
+tada.wav
+Windows Background.wav
+Windows Balloon.wav
+Windows Battery Critical.wav
+Windows Battery Low.wav
+Windows Critical Stop.wav
+Windows Default.wav
+Windows Ding.wav
+Windows Error.wav
+Windows Exclamation.wav
+Windows Feed Discovered.wav
+Windows Foreground.wav
+Windows Hardware Fail.wav
+Windows Hardware Insert.wav
+Windows Hardware Remove.wav
+Windows Information Bar.wav
+Windows Logoff Sound.wav
+Windows Logon.wav
+Windows Menu Command.wav
+Windows Message Nudge.wav
+Windows Minimize.wav
+Windows Navigation Start.wav
+Windows Notify Calendar.wav
+Windows Notify Email.wav
+Windows Notify Messaging.wav
+Windows Notify System Generic.wav
+Windows Notify.wav
+Windows Pop-up Blocked.wav
+Windows Print complete.wav
+Windows Proximity Connection.wav
+Windows Proximity Notification.wav
+Windows Recycle.wav
+Windows Restore.wav
+Windows Ringin.wav
+Windows Ringout.wav
+Windows Shutdown.wav
+Windows Startup.wav
+Windows Unlock.wav
+Windows User Account Control.wav
+
+MID (MIDI)
+
+flourish.mid
+onestop.mid
+town.mid
+
+Other files
+
+RAW
+
+Focus0_48000Hz.raw
+Focus1_48000Hz.raw
+Focus2_48000Hz.raw
+Focus3_48000Hz.raw
+Focus4_48000Hz.raw
+GoBack_48000Hz.raw
+Hide_48000Hz.raw
+Invoke_48000Hz.raw
+MoveNext_48000Hz.raw
+MovePrevious_48000Hz.raw
+Show_48000Hz.raw
+
+INI
+
+'desktop.ini'
+
+microsoft,windows,microsoft windows,microsoft windows nt,windows nt 10,windows 10,windows 10.0,10,mp4,mp3,raw,mid,midiogg,wav,webm,sound effects,sfx,windows sound effects,windows sfx,2015,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,video,system sounds,windows 10 sound effects,windows 10 sfx,windows 10 sounds,windows 10 sound effect,windows 10 audio,windows 10 system sounds
+
+***
+
+Seanpm2001_Boom-Beach-session-screenshots_2024June30th
+
+Screenshots from my 2024, June 30th Boom Beach session, containing 1,274 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,boom,beach,boom beach,boom beach session,boom beach gameplay,boom beach images,boom beach screenshots,images,screenshots,photos,pictures,supercell,supercell boom beach,supercell games,gameplay,video games,mobile games,video game screenshots,2024,june,30th,android,1080p,jpg,bb,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024June30th
+
+Screenshots from my 2024, June 30th Clash of Clans session, containing 639 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,june,30th,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
