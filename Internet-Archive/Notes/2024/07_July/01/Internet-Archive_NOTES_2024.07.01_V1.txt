@@ -1,0 +1,52 @@
+
+***
+
+Internet Archive upload notes 2024, Monday, July 1st
+
+***
+
+Microsoft_Windows-3-x-System-Sounds
+
+The system sounds for Window 3.1x (1992) taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+CHIMES.WAV
+CHORD.WAV
+DING.WAV
+RINGIN.WAV
+RINGOUT.WAV
+TADA.WAV
+
+Other files
+
+ZIP
+
+Windows3x_[winsounds.com]_1010.zip
+
+INI
+
+'desktop.ini'
+
+microsoft,windows,microsoft windows,microsoft windows dos,windows 3,windows 3.x,windows 3.1.x,3,mp3,wav,webm,sound effects,sfx,windows sound effects,windows sfx,1992,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,video,system sounds,windows 3 sound effects,windows 3 sfx,windows 3 sounds,windows 103sound effect,windows 3 audio,windows 3 system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024June9th
+
+Screenshots from my 2024, June 9th Clash of Clans session, containing 428 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,june,9th,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Tiny-Tower-session-screenshots_2024July1st
+
+Screenshots from my 2024, Monday, July 1st Tiny Tower session, containing 1,493 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit tiny,nimblebit tiny tower,tiny,tower,tiny tower,tiny tower screenshots,tiny tower images,tiny tower pictures,tiny tower photos,1080p,jpg,tt,2024,june,24th,tiny tower gameplay,tiny tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
