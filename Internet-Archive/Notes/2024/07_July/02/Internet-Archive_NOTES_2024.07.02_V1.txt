@@ -1,0 +1,372 @@
+
+***
+
+Internet Archive upload notes 2024, Tuesday, July 2nd
+
+***
+
+Microsoft_Windows-7-System-Sounds
+
+All of the system sounds for Window 7 (2009) including all themes in Windows 7 ultimate. Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+Afternoon
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Calligraphy
+
+ ads-track-digest256.sbstore
+ allow-flashallow-digest256.vlpset
+ base-cryptomining-track-digest256.vlpset
+ base-fingerprinting-track-digest256.sbstore
+ base-fingerprinting-track-digest256.vlpset
+ block-flash-digest256.sbstore
+ block-flash-digest256.vlpset
+ block-flashsubdoc-digest256.sbstore
+ block-flashsubdoc-digest256.vlpset
+ content-track-digest256.sbstore
+ except-flashallow-digest256.sbstore
+ except-flash-digest256.sbstore
+ except-flashsubdoc-digest256.vlpset
+ google-trackwhite-digest256.sbstore
+ google-trackwhite-digest256.vlpset
+ mozplugin-block-digest256.sbstore
+ mozplugin-block-digest256.vlpset
+ social-track-digest256.sbstore
+ social-tracking-protection-facebook-digest256.vlpset
+ social-tracking-protection-twitter-digest256.sbstore
+ social-tracking-protection-twitter-digest256.vlpset
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Characters
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Cityscape
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Default
+
+ chimes.wav
+ chord.wav
+ ding.wav
+ flourish.mid
+ ir_begin.wav
+ ir_end.wav
+ ir_inter.wav
+ notify.wav
+ onestop.mid
+ recycle.wav
+ ringout.wav
+'Speech Disambiguation.wav'
+'Speech Misrecognition.wav'
+'Speech Off.wav'
+'Speech On.wav'
+'Speech Sleep.wav'
+ tada.wav
+ town.mid
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Menu Command.wav'
+'Windows Minimize.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows Recycle.wav'
+'Windows Restore.wav'
+'Windows Ringin.wav'
+'Windows Ringout.wav'
+'Windows Shutdown.wav'
+'Windows Startup.wav'
+'Windows User Account Control.wav'
+
+Delta
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+
+Festival
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Garden
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Heritage
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Landscape
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Raga
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Savannah
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows User Account Control.wav'
+
+Other files
+
+ZIP
+
+'Afternoon_win7_[winsounds.com]_1210.zip'
+'Calligraphy_win7_[winsounds.com]_789.zip'
+'Characters_win7_[winsounds.com]_1690.zip'
+'Cityscape_win7_[winsounds.com]_572.zip'
+'default_win7_[winsounds.com]_306.zip'
+'Delta_win7_[winsounds.com]_910.zip'
+'Festival_win7_[winsounds.com]_1861.zip'
+'Garden_win7_[winsounds.com]_764.zip'
+'Heritage_win7_[winsounds.com]_1709.zip'
+'Landscape_win7_[winsounds.com]_1118.zip'
+'Raga_win7_[winsounds.com]_859.zip'
+'Savanna_win7_[winsounds.com]_685.zip'
+
+microsoft,windows,microsoft windows,microsoft windows nt,windows 7,windows 6.1.x,windows 6.1,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,2009,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,video,system sounds,windows 7 sound effects,windows 7 sfx,windows 7 sounds,windows 7 sound effect,windows 7 audio,windows 7 system sounds,winsounds,winsounds.com,windows 7 ultimate,windows 7 themes,windows 7 afternoon,windows 7 calligraphy,windows 7 characters,windows 7 cityscape,windows 7 default,windows 7 delta,windows 7 festival,windows 7 garden,windows 7 heritage,windows 7 landscape,windows 7 raga,windows 7 savannah,windows 7 afternoon sounds,windows 7 calligraphy sounds,windows 7 characters sounds,windows 7 cityscape sounds,windows 7 default sounds,windows 7 delta sounds,windows 7 festival sounds,windows 7 garden sounds,windows 7 heritage sounds,windows 7 landscape sounds,windows 7 raga sounds,windows 7 savannah sounds,windows 7 afternoon sfx,windows 7 calligraphy sfx,windows 7 characters sfx,windows 7 cityscape sfx,windows 7 default sfx,windows 7 delta sfx,windows 7 festival sfx,windows 7 garden sfx,windows 7 heritage sfx,windows 7 landscape sfx,windows 7 raga sfx,windows 7 savannah sfx,windows 7 afternoon sound effects,windows 7 calligraphy sound effects,windows 7 characters sound effects,windows 7 cityscape sound effects,windows 7 default sound effects,windows 7 delta sound effects,windows 7 festival sound effects,windows 7 garden sound effects,windows 7 heritage sound effects,windows 7 landscape sound effects,windows 7 raga sound effects,windows 7 savannah sound effects,windows 7 afternoon theme sounds,windows 7 calligraphy theme sounds,windows 7 characters theme sounds,windows 7 cityscape theme sounds,windows 7 default theme sounds,windows 7 delta theme sounds,windows 7 festival theme sounds,windows 7 garden theme sounds,windows 7 heritage theme sounds,windows 7 landscape theme sounds,windows 7 raga theme sounds,windows 7 savannah theme sounds
+
+***
+
+Seanpm2001_Boom-Beach-session-screenshots_2024June9th
+
+Screenshots from my 2024, June 9th Boom Beach session, containing 357 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,boom,beach,boom beach,boom beach session,boom beach gameplay,boom beach images,boom beach screenshots,images,screenshots,photos,pictures,supercell,supercell boom beach,supercell games,gameplay,video games,mobile games,video game screenshots,2024,june,9th,android,1080p,jpg,bb,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Bit-City-session-screenshots_2024July2nd
+
+Screenshots from my 2024, Tuesday, July 2nd Bit City session, containing 652 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit city,nimblebit bit,nimblebit bit city,bit,city,bit city,bit city screenshots,bit city images,bit city pictures,bit city photos,1080p,jpg,bc,2024,july,2nd,bit city gameplay,bit city session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
