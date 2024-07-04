@@ -1,0 +1,119 @@
+
+***
+
+Internet Archive upload notes 2024, Wednesday, July 3rd
+
+***
+
+Microsoft_Windows-8-System-Sounds
+
+All of the system sounds for Window 8 (2012) Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+ Alarm01.wav
+ Alarm02.wav
+ Alarm03.wav
+ Alarm04.wav
+ Alarm05.wav
+ Alarm06.wav
+ Alarm07.wav
+ Alarm08.wav
+ Alarm09.wav
+ Alarm10.wav
+ chimes.wav
+ chord.wav
+ ding.wav
+ flourish.mid
+ ir_begin.wav
+ ir_end.wav
+ ir_inter.wav
+ notify.wav
+ onestop.mid
+ recycle.wav
+ Ring01.wav
+ Ring02.wav
+ Ring03.wav
+ Ring04.wav
+ Ring05.wav
+ Ring06.wav
+ Ring07.wav
+ Ring08.wav
+ Ring09.wav
+ Ring10.wav
+ ringout.wav
+'Speech Disambiguation.wav'
+'Speech Misrecognition.wav'
+'Speech Off.wav'
+'Speech On.wav'
+'Speech Sleep.wav'
+ tada.wav
+ town.mid
+'Windows Background.wav'
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Foreground.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon.wav'
+'Windows Menu Command.wav'
+'Windows Message Nudge.wav'
+'Windows Minimize.wav'
+'Windows Navigation Start.wav'
+'Windows Notify Calendar.wav'
+'Windows Notify Email.wav'
+'Windows Notify Messaging.wav'
+'Windows Notify System Generic.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print complete.wav'
+'Windows Proximity Connection.wav'
+'Windows Proximity Notification.wav'
+'Windows Recycle.wav'
+'Windows Restore.wav'
+'Windows Ringin.wav'
+'Windows Ringout.wav'
+'Windows Shutdown.wav'
+'Windows Startup.wav'
+'Windows Unlock.wav'
+'Windows User Account Control.wav'
+
+
+Other files
+
+ZIP
+
+Windows8_sounds_[winsounds.com]_1686.zip
+
+microsoft,windows,microsoft windows,microsoft windows nt,windows 8,windows 6.2.x,windows 6.2,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,2012,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,video,system sounds,windows 8 sound effects,windows 8 sfx,windows 8 sounds,windows 8 sound effect,windows 8 audio,windows 8 system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Tiny-Death-Star-session-screenshots_2024June7th
+
+Screenshots from my 2024, Friday, June 7th Tiny Death Star session, containing 477 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit death,nimblebit tiny,nimblebit star,nimblebit tiny death star,death star,star wars,star wars death star,star wars tiny death star,death,star,star wars tiny death star,nimblebit star wars tiny death star,tiny death star screenshots,tiny death star images,tiny death star pictures,tiny death star photos,1080p,jpg,tds,2024,june,7th,tiny death star gameplay,tiny death star session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Disco-Zoo-session-screenshots_2024July3rd
+
+Screenshots from my 2024, Wednesday, July 3rd Disco Zoo session, containing 869 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,milkbag games,milkbag games disco,milkbag games zoo,milkbag games disco zoo,milkbag games nimblebit,nimblebit,nimblebit zoo,nimblebit disco,nimblebit disco zoo,disco,zoo,disco zoo,disco zoo screenshots,disco zoo images,disco zoo pictures,disco zoo photos,1080p,jpg,dz,2024,july,3rd,disco zoo gameplay,disco zoo session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
