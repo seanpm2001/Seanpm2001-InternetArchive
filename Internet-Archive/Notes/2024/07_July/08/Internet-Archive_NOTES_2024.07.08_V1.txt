@@ -1,0 +1,57 @@
+
+***
+
+Internet Archive upload notes 2024, Monday, July 8th
+
+***
+
+Microsoft_Windows-Longhorn-Reloaded-System-Sounds
+
+All of the system sounds for Window Longhorn Reloaded (2007) Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+'LHR Critical Stop.wav'
+'LHR Error.wav'
+'LHR Exclamation.wav'
+'LHR Hardware Fail.wav'
+'LHR Hardware Insert.wav'
+'LHR Hardware Remove.wav'
+'LHR Logoff.wav'
+'LHR Logon.wav'
+'LHR Notify.wav'
+'LHR Shutdown.wav'
+'LHR Startup.wav'
+
+Other files
+
+ZIP
+
+longhorn_reloaded_[winsounds.com]_767.zip
+
+microsoft,windows,microsoft windows,microsoft windows nt,windows vista,windows longhorn,longhorn,longhorn reloaded,windows longhorn reloaded,windows 6.1.x,windows 6.1,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,2007,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,video,system sounds,windows vista sound effects,windows vista sfx,windows vista sounds,windows vista sound effect,windows vista audio,windows vista system sounds,windows longhorn sound effects,windows longhorn sfx,windows longhorn sounds,windows longhorn sound effect,windows longhorn audio,windows longhorn system sounds,windows longhorn reloaded sound effects,windows longhorn reloaded sfx,windows longhorn reloaded sounds,windows longhorn reloaded sound effect,windows longhorn reloaded audio,windows longhorn reloaded system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Boom-Beach-session-screenshots_2024June2nd
+
+Screenshots from my 2024, June 2nd Boom Beach session, containing 907 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,boom,beach,boom beach,boom beach session,boom beach gameplay,boom beach images,boom beach screenshots,images,screenshots,photos,pictures,supercell,supercell boom beach,supercell games,gameplay,video games,mobile games,video game screenshots,2024,june,2nd,android,1080p,jpg,bb,horizontal screenshots,horizontal screenshot
+
+***
+
+# SKIPPED FOR TODAY: 502: Slow down (rate limited)
+
+Archive.org refused to let me upload this today. I will try again tomorrow.
+
+Seanpm2001_Tiny-Tower-session-screenshots_2024July8th
+
+Screenshots from my 2024, Monday, July 8th Tiny Tower session, containing 1,773 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit tiny,nimblebit tiny tower,tiny,tower,tiny tower,tiny tower screenshots,tiny tower images,tiny tower pictures,tiny tower photos,1080p,jpg,tt,2024,july,8th,tiny tower gameplay,tiny tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
