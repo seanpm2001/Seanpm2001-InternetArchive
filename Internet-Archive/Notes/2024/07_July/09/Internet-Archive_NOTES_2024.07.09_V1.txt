@@ -1,0 +1,399 @@
+
+***
+
+Internet Archive upload notes 2024, Tuesday, July 9th
+
+***
+
+Microsoft_Windows-98-System-Sounds
+
+All of the system sounds for Window 98 (1998) including all Windows 98 Plus! sounds. Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+Baseball
+
+'Baseball asterisk.wav'
+'Baseball beep.wav'
+'Baseball close program.wav'
+'Baseball critical stop.wav'
+'Baseball default sound.wav'
+'Baseball empty recycle bin.wav'
+'Baseball exclamation.wav'
+'Baseball exit windows.wav'
+'Baseball maximize.wav'
+'Baseball menu command.wav'
+'Baseball menu popup.wav'
+'Baseball minimize.wav'
+'Baseball open program.wav'
+'Baseball program error.wav'
+'Baseball question.wav'
+'Baseball restore down.wav'
+'Baseball restore up.wav'
+'Baseball startup.wav'
+
+Dangerous Creatures
+
+'Dangerous Creatures asterisk.wav'
+'Dangerous Creatures beep.wav'
+'Dangerous Creatures critical stop.wav'
+'Dangerous Creatures default sound.wav'
+'Dangerous Creatures empty recycle bin.wav'
+'Dangerous Creatures exclamation.wav'
+'Dangerous Creatures maximize.wav'
+'Dangerous Creatures menu command.wav'
+'Dangerous Creatures menu popup.wav'
+'Dangerous Creatures minimize.wav'
+'Dangerous Creatures program error.wav'
+'Dangerous Creatures question.wav'
+'Dangerous Creatures startup.wav'
+
+Inside your computer
+
+'Inside your Computer asterisk.wav'
+'Inside your Computer beep.wav'
+'Inside your Computer critical stop.wav'
+'Inside your Computer default sound.wav'
+'Inside your Computer empty recycle bin.wav'
+'Inside your Computer exclamation.wav'
+'Inside your Computer exit windows.wav'
+'Inside your Computer maximize.wav'
+'Inside your Computer menu command.wav'
+'Inside your Computer menu popup.wav'
+'Inside your Computer minimize.wav'
+'Inside your Computer program error.wav'
+'Inside your Computer question.wav'
+'Inside your Computer restore down.wav'
+'Inside your Computer restore up.wav'
+'Inside your Computer startup.wav'
+
+Jungle
+
+'Jungle asterisk.wav'
+'Jungle beep.wav'
+'Jungle close program.wav'
+'Jungle Close.wav'
+'Jungle critical stop.wav'
+'Jungle default sound.wav'
+'Jungle Default.wav'
+'Jungle empty recycle bin.wav'
+'Jungle Error.wav'
+'Jungle exclamation.wav'
+'Jungle exit windows.wav'
+'Jungle maximize.wav'
+'Jungle menu command.wav'
+'Jungle menu popup.wav'
+'Jungle minimize.wav'
+'Jungle open program.wav'
+'Jungle Open.wav'
+'Jungle program error.wav'
+'Jungle question.wav'
+'Jungle Recycle.wav'
+'Jungle restore down.wav'
+'Jungle restore up.wav'
+'Jungle startup.wav'
+'Jungle Windows Exit.wav'
+'Jungle Windows Start.wav'
+
+Leonardo da Vinci
+
+'Leonardo da Vinci asterisk.wav'
+'Leonardo da Vinci beep.wav'
+'Leonardo da Vinci critical stop.wav'
+'Leonardo da Vinci default sound.wav'
+'Leonardo da Vinci empty recycle bin.wav'
+'Leonardo da Vinci exclamation.wav'
+'Leonardo da Vinci maximize.wav'
+'Leonardo da Vinci menu command.wav'
+'Leonardo da Vinci menu popup.wav'
+'Leonardo da Vinci minimize.wav'
+'Leonardo da Vinci program error.wav'
+'Leonardo da Vinci question.wav'
+'Leonardo da Vinci restore down.wav'
+'Leonardo da Vinci restore up.wav'
+'Leonardo da Vinci startup.wav'
+
+Musica
+
+'Musica Asterisk.wav'
+'Musica Close.wav'
+'Musica Critical Stop.wav'
+'Musica Default.wav'
+'Musica Error.wav'
+'Musica Exclamation.wav'
+'Musica Maximize.wav'
+'Musica Menu Command.wav'
+'Musica Menu Popup.wav'
+'Musica Minimize.wav'
+'Musica Open.wav'
+'Musica Question.wav'
+'Musica Recycle.wav'
+'Musica Restore Down.wav'
+'Musica Restore Up.wav'
+'Musica Windows Exit.wav'
+'Musica Windows Start.wav'
+
+Mystery
+
+'Mystery asterisk.wav'
+'Mystery beep.wav'
+'Mystery critical stop.wav'
+'Mystery default sound.wav'
+'Mystery empty recycle bin.wav'
+'Mystery exclamation.wav'
+'Mystery exit windows.wav'
+'Mystery maximize.wav'
+'Mystery menu command.wav'
+'Mystery menu popup.wav'
+'Mystery minimize.wav'
+'Mystery program error.wav'
+'Mystery question.wav'
+'Mystery startup.wav'
+
+Nature
+
+'Nature asterisk.wav'
+'Nature beep.wav'
+'Nature critical stop.wav'
+'Nature default sound.wav'
+'Nature empty recycle bin.wav'
+'Nature exclamation.wav'
+'Nature exit windows.wav'
+'Nature maximize.wav'
+'Nature menu command.wav'
+'Nature menu popup.wav'
+'Nature minimize.wav'
+'Nature program error.wav'
+'Nature question.wav'
+'Nature restore down.wav'
+'Nature restore up.wav'
+'Nature startup.wav'
+
+Robotz
+
+'Robotz Asterisk.wav'
+'Robotz Close.wav'
+'Robotz Critical Stop.wav'
+'Robotz Default.wav'
+'Robotz Error.wav'
+'Robotz Exclamation.wav'
+'Robotz Maximize.wav'
+'Robotz Menu Command.wav'
+'Robotz Menu Popup.wav'
+'Robotz Minimize.wav'
+'Robotz Open.wav'
+'Robotz Question.wav'
+'Robotz Recycle.wav'
+'Robotz Restore Down.wav'
+'Robotz Restore Up.wav'
+'Robotz Windows Exit.wav'
+'Robotz Windows Start.wav'
+
+Science
+
+'Science asterisk.wav'
+'Science beep.wav'
+'Science critical stop.wav'
+'Science default sound.wav'
+'Science empty recycle bin.wav'
+'Science exclamation.wav'
+'Science exit windows.wav'
+'Science maximize.wav'
+'Science menu command.wav'
+'Science menu popup.wav'
+'Science minimize.wav'
+'Science program error.wav'
+'Science question.wav'
+'Science restore down.wav'
+'Science restore up.wav'
+'Science startup.wav'
+
+Space
+
+'Space asterisk.wav'
+'Space beep.wav'
+'Space close program.wav'
+'Space critical stop.wav'
+'Space default sound.wav'
+'Space empty recycle bin.wav'
+'Space exclamation.wav'
+'Space exit windows.wav'
+'Space maximize.wav'
+'Space menu command.wav'
+'Space menu popup.wav'
+'Space minimize.wav'
+'Space open program.wav'
+'Space program error.wav'
+'Space question.wav'
+'Space restore down.wav'
+'Space restore up.wav'
+'Space startup.wav'
+
+Sports
+
+'Sports asterisk.wav'
+'Sports beep.wav'
+'Sports critical stop.wav'
+'Sports default sound.wav'
+'Sports empty recycle bin.wav'
+'Sports exclamation.wav'
+'Sports exit windows.wav'
+'Sports maximize.wav'
+'Sports menu command.wav'
+'Sports menu popup.wav'
+'Sports minimize.wav'
+'Sports program error.wav'
+'Sports question.wav'
+'Sports startup.wav'
+
+The 60's USA
+
+"The 60's USA asterisk.wav"
+"The 60's USA beep.wav"
+"The 60's USA critical stop.wav"
+"The 60's USA default sound.wav"
+"The 60's USA empty recycle bin.wav"
+"The 60's USA exclamation.wav"
+"The 60's USA exit windows.wav"
+"The 60's USA maximize.wav"
+"The 60's USA menu command.wav"
+"The 60's USA menu popup.wav"
+"The 60's USA minimize.wav"
+"The 60's USA program error.wav"
+"The 60's USA question.wav"
+"The 60's USA restore down.wav"
+"The 60's USA restore up.wav"
+"The 60's USA startup.wav"
+
+The Golden Era
+
+'The Golden Era asterisk.wav'
+'The Golden Era beep.wav'
+'The Golden Era critical stop.wav'
+'The Golden Era default sound.wav'
+'The Golden Era empty recycle bin.wav'
+'The Golden Era exclamation.wav'
+'The Golden Era exit windows.wav'
+'The Golden Era maximize.wav'
+'The Golden Era menu command.wav'
+'The Golden Era menu popup.wav'
+'The Golden Era minimize.wav'
+'The Golden Era program error.wav'
+'The Golden Era question.wav'
+'The Golden Era startup.wav'
+
+Travel
+
+'Travel asterisk.wav'
+'Travel beep.wav'
+'Travel critical stop.wav'
+'Travel default sound.wav'
+'Travel empty recycle bin.wav'
+'Travel exclamation.wav'
+'Travel exit windows.wav'
+'Travel maximize.wav'
+'Travel menu command.wav'
+'Travel menu popup.wav'
+'Travel minimize.wav'
+'Travel program error.wav'
+'Travel question.wav'
+'Travel restore down.wav'
+'Travel restore up.wav'
+'Travel startup.wav'
+
+Underwater
+
+'Underwater asterisk.wav'
+'Underwater beep.wav'
+'Underwater close program.wav'
+'Underwater critical stop.wav'
+'Underwater default sound.wav'
+'Underwater empty recycle bin.wav'
+'Underwater exclamation.wav'
+'Underwater exit windows.wav'
+'Underwater maximize.wav'
+'Underwater menu command.wav'
+'Underwater menu popup.wav'
+'Underwater minimize.wav'
+'Underwater open program.wav'
+'Underwater program error.wav'
+'Underwater question.wav'
+'Underwater restore down.wav'
+'Underwater restore up.wav'
+'Underwater startup.wav'
+
+Utopia
+
+'Utopia Asterisk.wav'
+'Utopia Close.wav'
+'Utopia Critical Stop.wav'
+'Utopia Default.wav'
+'Utopia Error.wav'
+'Utopia Exclamation.wav'
+'Utopia Maximize.wav'
+'Utopia Menu Command.wav'
+'Utopia Menu Popup.wav'
+'Utopia Minimize.wav'
+'Utopia Open.wav'
+'Utopia Question.wav'
+'Utopia Recycle.wav'
+'Utopia Restore Down.wav'
+'Utopia Restore Up.wav'
+'Utopia Windows Exit.wav'
+'Utopia Windows Start.wav'
+
+Windows 98
+
+'Windows 98 asterisk.wav'
+'Windows 98 beep.wav'
+'Windows 98 critical stop.wav'
+'Windows 98 default sound.wav'
+'Windows 98 empty recycle bin.wav'
+'Windows 98 exclamation.wav'
+'Windows 98 exit windows.wav'
+'Windows 98 maximize.wav'
+'Windows 98 menu command.wav'
+'Windows 98 menu popup.wav'
+'Windows 98 minimize.wav'
+'Windows 98 program error.wav'
+'Windows 98 question.wav'
+'Windows 98 restore down.wav'
+'Windows 98 restore up.wav'
+'Windows 98 startup.wav'
+
+Other files
+
+ZIP
+
+Windows98Sounds_[winsounds.com]_1958.zip
+
+microsoft,windows,microsoft windows,microsoft windows 98,windows 98,microsoft plus,plus for windows 98,microsoft plus 98,plus for windows,microsoft plus for windows,microsoft plus for windows 98,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,1998,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,system sounds,windows 98 sound effects,windows 98 sfx,windows 98 sounds,windows 98 sound effect,windows 98 audio,windows 98 system sounds,windows 98 plus sound effects,windows 98 plus sfx,windows 98 plus sounds,windows 98 plus sound effect,windows 98 plus audio,windows 98 plus system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Bit-City-session-screenshots_2024July9th
+
+Screenshots from my 2024, Tuesday, July 9th Bit City session, containing 370 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit city,nimblebit bit,nimblebit bit city,bit,city,bit city,bit city screenshots,bit city images,bit city pictures,bit city photos,1080p,jpg,bc,2024,july,9th,bit city gameplay,bit city session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024June2nd
+
+Screenshots from my 2024, June 2nd Clash of Clans session, containing 583 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,june,2nd,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Tiny-Tower-session-screenshots_2024July8th-1
+
+Screenshots from my 2024, Monday, July 8th Tiny Tower session, containing 1,773 images in JPG format. All images are in 1080p resolution. Re-upload, as the original post couldn't be made, due to an Internet Archive rate limit.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit tiny,nimblebit tiny tower,tiny,tower,tiny tower,tiny tower screenshots,tiny tower images,tiny tower pictures,tiny tower photos,1080p,jpg,tt,2024,july,8th,tiny tower gameplay,tiny tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
