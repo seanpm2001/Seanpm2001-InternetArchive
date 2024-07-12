@@ -1,0 +1,81 @@
+
+***
+
+Internet Archive upload notes 2024, Thursday, July 11th
+
+***
+
+Microsoft_Windows-Glass-2010-System-Sounds
+
+All of the system sounds for the Windows Glass theme (2010) Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+'chimes.wav'
+'chord.wav'
+'ding.wav'
+'ir_begin.wav'
+'ir_end.wav'
+'ir_inter.wav'
+'ringin.wav'
+'ringout.wav'
+'Speech Disambiguation.wav'
+'Speech Misrecognition.wav'
+'Speech Off.wav'
+'Speech On.wav'
+'Speech Sleep.wav'
+'start.wav'
+'tada.wav'
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Menu Command.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print Complete.wav'
+'Windows Recycle.wav'
+'Windows Shutdown-Long.wav'
+'Windows Shutdown.wav'
+'Windows User Account Control.wav'
+
+Other files
+
+ZIP
+
+Glass_[winsounds.com]_1395.zip
+
+microsoft,windows,microsoft windows,microsoft windows glass,windows glass,glass,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,2010,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,system sounds,windows glass sound effects,windows glass sfx,windows glass sounds,windows glass sound effect,windows glass audio,windows glass system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024May26th
+
+Screenshots from my 2024, May 26th Clash of Clans session, containing 572 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,may,26th,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Lego-Tower-session-screenshots_2024July11th
+
+Screenshots from my 2024, Thursday, July 11th Lego Tower session, containing 1,455 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit lego,nimblebit lego tower,lego,tower,lego tower,lego tower screenshots,lego tower images,lego tower pictures,lego tower photos,1080p,jpg,lt,2024,july,11th,lego tower gameplay,lego tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
