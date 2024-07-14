@@ -1,0 +1,53 @@
+
+***
+
+Internet Archive upload notes 2024, Sunday, July 14th
+
+***
+
+Microsoft_Windows-NT-4-Sound-effects
+
+All of the system sounds for Window NT 4.x (1996) Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+'chimes.wav'
+'chord.wav'
+'ding.wav'
+'ringin.wav'
+'ringout.wav'
+'Start.wav'
+'tada.wav'
+'The Microsoft Sound.wav'
+'Windows NT Logoff Sound.wav'
+'Windows NT Logon Sound.wav'
+
+
+Other files
+
+ZIP
+
+NT4_[winsounds.com]_880.zip
+
+microsoft,windows,microsoft windows,microsoft windows nt 4,windows nt 4,nt 4,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,1996,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,system sounds,windows nt 4 sound effects,windows nt 4 sfx,windows nt 4 sounds,windows nt 4 sound effect,windows nt 4 audio,windows nt 4 system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Boom-Beach-session-screenshots_2024July14th
+
+Screenshots from my 2024, July 14th Boom Beach session, containing 341 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,boom,beach,boom beach,boom beach session,boom beach gameplay,boom beach images,boom beach screenshots,images,screenshots,photos,pictures,supercell,supercell boom beach,supercell games,gameplay,video games,mobile games,video game screenshots,2024,july,14th,android,1080p,jpg,bb,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024July14th
+
+Screenshots from my 2024, July 14th Clash of Clans session, containing 698 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,july,14th,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
