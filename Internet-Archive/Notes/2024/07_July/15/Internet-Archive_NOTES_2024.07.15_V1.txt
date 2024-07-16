@@ -1,0 +1,68 @@
+
+***
+
+Internet Archive upload notes 2024, Monday, July 15th
+
+***
+
+Microsoft_Windows-Pearl-Sound-effects
+
+All of the system sounds for the Windows Pearl theme (2010) Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+'Windows Balloon.wav'
+'Windows Battery Critical.wav'
+'Windows Battery Low.wav'
+'Windows Critical Stop.wav'
+'Windows Default.wav'
+'Windows Ding.wav'
+'Windows Error.wav'
+'Windows Exclamation.wav'
+'Windows Feed Discovered.wav'
+'Windows Hardware Fail.wav'
+'Windows Hardware Insert.wav'
+'Windows Hardware Remove.wav'
+'Windows Information Bar.wav'
+'Windows Logoff Sound.wav'
+'Windows Logon Sound.wav'
+'Windows Menu Command.wav'
+'Windows Minimize.wav'
+'Windows Navigation Start.wav'
+'Windows Notify.wav'
+'Windows Pop-up Blocked.wav'
+'Windows Print Complete.wav'
+'Windows Recycle.wav'
+'Windows Restore.wav'
+'Windows Shutdown-Long.wav'
+'Windows Shutdown.wav'
+'Windows User Account Control.wav'
+
+Other files
+
+ZIP
+
+Pearl_[winsounds.com]_881.zip
+
+microsoft,windows,microsoft windows,microsoft windows pearl,windows pearl,pearl,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,2010,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,system sounds,windows pearl sound effects,windows pearl sfx,windows pearl sounds,windows pearl sound effect,windows pearl audio,windows pearl system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Boom-Beach-session-screenshots_2024May12th
+
+Screenshots from my 2024, May 12th Boom Beach session, containing 280 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,boom,beach,boom beach,boom beach session,boom beach gameplay,boom beach images,boom beach screenshots,images,screenshots,photos,pictures,supercell,supercell boom beach,supercell games,gameplay,video games,mobile games,video game screenshots,2024,may,12th,android,1080p,jpg,bb,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Tiny-Tower-session-screenshots_2024July15th
+
+Screenshots from my 2024, Monday, July 15th Tiny Tower session, containing 1,651 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit tiny,nimblebit tiny tower,tiny,tower,tiny tower,tiny tower screenshots,tiny tower images,tiny tower pictures,tiny tower photos,1080p,jpg,tt,2024,july,15th,tiny tower gameplay,tiny tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
