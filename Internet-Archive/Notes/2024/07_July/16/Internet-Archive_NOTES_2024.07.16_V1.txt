@@ -1,0 +1,64 @@
+
+***
+
+Internet Archive upload notes 2024, Tuesday, July 16th
+
+***
+
+Microsoft_Windows-Vista-Beta-2-Sound-effects
+
+All of the system sounds for Windows Vista Beta 2 (2006) Taken from winsounds.com. Note that these sounds are unofficial, and are not present in Windows Vista beta builds. They are fan-made.
+
+Audio track listing
+
+WAV
+
+'Vista_CriticalBatteryAlarm.wav'
+'Vista_Default.wav'
+'Vista_DeviceConnect.wav'
+'Vista_DeviceDisconnect.wav'
+'Vista_DeviceFail.wav'
+'Vista_EmptyRecycleBin.wav'
+'Vista_LowBatteryAlarm.wav'
+'Vista_MailBeep.wav'
+'Vista_MSNMSGR_ContactOnline.wav'
+'Vista_MSNMSGR_NewAlert.wav'
+'Vista_MSNMSGR_NewMail.wav'
+'Vista_MSNMSGR_NewMessage.wav'
+'Vista_SecurityBand.wav'
+'Vista_SystemAsterisk.wav'
+'Vista_SystemExclamation.wav'
+'Vista_SystemExit.wav'
+'Vista_SystemHand.wav'
+'Vista_SystemNotification.wav'
+'Vista_SystemStart.wav'
+'Vista_WindowsLogoff.wav'
+'Vista_WindowsLogon.wav'
+'Windows BlockedPopup.wav'
+
+Other files
+
+ZIP
+
+Pearl_[winsounds.com]_881.zip
+
+microsoft,windows,microsoft windows,microsoft windows vista,windows vista,vista,mp3,wav,sound effects,sfx,windows sound effects,windows sfx,2006,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,system sounds,windows vista sound effects,windows vista sfx,windows vista sounds,windows vista sound effect,windows vista audio,windows vista system sounds,windows vista beta sound effects,windows vista beta sfx,windows vista beta sounds,windows vista beta sound effect,windows vista beta audio,windows vista beta system sounds,windows vista beta 2 sound effects,windows vista beta 2 sfx,windows vista beta 2 sounds,windows vista beta 2 sound effect,windows vista beta 2 audio,windows vista beta 2 system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_Bit-City-session-screenshots_2024July16th
+
+Screenshots from my 2024, Tuesday, July 16th Bit City session, containing 496 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit city,nimblebit bit,nimblebit bit city,bit,city,bit city,bit city screenshots,bit city images,bit city pictures,bit city photos,1080p,jpg,bc,2024,july,16th,bit city gameplay,bit city session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024May19th
+
+Screenshots from my 2024, Sunday, May 19th Clash of Clans session, containing 514 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,may,19th,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
