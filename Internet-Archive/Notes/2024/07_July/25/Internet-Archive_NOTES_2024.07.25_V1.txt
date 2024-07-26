@@ -1,0 +1,84 @@
+
+***
+
+Internet Archive upload notes 2024, Thursday, July 25th
+
+***
+
+Apple_MacOS-X-10-0-System-Sounds
+
+All of the system sounds from Mac OS X 10.0 (2001) Taken from winsounds.com
+
+Audio track listing
+
+WAV
+
+'Asterik.wav'
+'Close.wav'
+'Complete Navigation.wav'
+'Contact Online.wav'
+'Critical Battery.wav'
+'Critical Stop.wav'
+'Default Beep.wav'
+'Device Connect.wav'
+'Device Disconnect.wav'
+'Device Failed.wav'
+'Empty Recycle.wav'
+'Error.wav'
+'Exclamation.wav'
+'Exit Windows.wav'
+'Logoff.wav'
+'Logon.wav'
+'Low Battery.wav'
+'Maximize.wav'
+'Menu Command.wav'
+'Menu Popup.wav'
+'Minimize.wav'
+'Move Menu.wav'
+'New Alert.wav'
+'New Mail.wav'
+'New Messages.wav'
+'Open.wav'
+'Person Join.wav'
+'Person Leave.wav'
+'Print Complete.wav'
+'Program Error.wav'
+'Question.wav'
+'Receive Call.wav'
+'Receive Request.wav'
+'Restore Down.wav'
+'Restore Up.wav'
+'Select.wav'
+'Show Toolbar.wav'
+'Start Navigation.wav'
+'Start Windows.wav'
+'System Notifi.wav'
+'Windows exit.wav'
+'Windows XP start.wav'
+
+Other files
+
+ZIP
+
+MACSound_[winsounds.com]_1375.zip
+
+apple,macos,apple macos,apple macos x,macos x,macos x 10,mp3,wav,sound effects,sfx,macos sound effects,macos sfx,2001,startup,shutdown,startup sounds,startup sound effects,startup sound effect,startup sfx,shutdown sound,shutdown sounds,shutdown sound effect,shutdown sound effects,shutdown sfx,audio,system sounds,macos x sound effects,macos x sfx,macos x sounds,macos x sound effect,macos x audio,macos x system sounds,macos x 10 sound effects,macos x 10 sfx,macos x 10 sounds,macos x 10 sound effect,macos x 10 audio,macos x 10 system sounds,macos x 10.0 sound effects,macos x 10.0 sfx,macos x 10.0 sounds,macos x 10.0 sound effect,macos x 10.0 audio,macos x 10.0 system sounds,winsounds,winsounds.com
+
+***
+
+Seanpm2001_AdVenture-Capitalist-session-screenshots_2024April13th
+
+Screenshots from my 2024, Saturday, April 13th AdVenture Capitalist session, containing 612 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,hyperhippo,hyperhippo games,hyperhippo capitalist,hyperhippo games capitalist,hyperhippo capitalism,hyperhippo capitalist,hyperhippo adventure,hyperhippo games adventure,hyperhippo adventure capitalist,hyperhippo games adventure capitalist,hyperhippo adcap,hyperhippo games adcap,adventure,capitalist,capitalism,mock capitalism,clicker game,tapper game,idle game,adcap,adventure capitalist screenshots,adcap screenshots,adventure capitalist images,adcap images,adventure capitalist pictures,adcap pictures,adventure capitalist photos,adcap photos,1080p,jpg,ac,2024,april,13th,adventure capitalist gameplay,adcap gameplay,adventure capitalist session,adapm session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Lego-Tower-session-screenshots_2024July25th
+
+Screenshots from my 2024, Thursday, July 25th Lego Tower session, containing 1,472 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit lego,nimblebit lego tower,lego,tower,lego tower,lego tower screenshots,lego tower images,lego tower pictures,lego tower photos,1080p,jpg,lt,2024,july,25th,lego tower gameplay,lego tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
