@@ -1,0 +1,82 @@
+
+***
+
+Internet Archive upload notes 2024, Tuesday August 6th
+
+***
+
+Animoca_Pretty-Pet-Salon-sound-effects
+
+All of the sound effects from Pretty Pet Salon (2011) taken from a late iOS version of the game.
+
+Audio track listing
+
+MP3
+
+Coming soon
+
+OGG
+
+0012.ogg
+0014.ogg
+0015.ogg
+0017.ogg
+001_forging.ogg
+0024.ogg
+0027.ogg
+0057.ogg
+009_gotMsg.ogg
+cursor_click_v2.ogg
+EFFA002.ogg
+EFFZ001.ogg
+Growth-EFFF002.ogg
+npc_shop_sell_v2.ogg
+PetSalon_Obama_v1.ogg
+PetSalon_RichLady_v1.ogg
+PetSalon_SFX_deflea_v1.ogg
+PetSalon_SFX_facial_v1.ogg
+PetSalon_SFX_levelup_v1.ogg
+PetSalon_SFX_massage_v1.ogg
+PetSalon_SFX_scissors_v1.ogg
+PetSalon_SFX_sink_v1.ogg
+PetSalon_SFX_towel_v1.ogg
+PetSalon_SuperHero_v1.ogg
+PPS_Challenge_Fail_v1.ogg
+PPS_Challenge_Start_v1.ogg
+PPS_Challenge_Won_v1.ogg
+PPS_Consumables_Activation_v1.ogg
+PPS_VIP_Zombie.ogg
+SupplementHP-EFFC004.ogg
+sure01.ogg
+text_type.ogg
+
+Other files
+
+Markdown
+
+IGNORE.md
+
+PNG
+
+Pretty_Pet_Salon_cover.png
+
+pretty,pet,salon,pretty pet,pretty pet salon,pretty pet salon sound effects,pretty pet salon sfx,pretty pet salon audio,sfx,sound effects,audio,2011,video games,mobile video game,mobile video game sfx,mobile video game sound effects,video game sfx,video game sound effects,mp3,ogg,md,png,animoca,animoca pretty pet salon,animoca pretty,animoca pretty pet,animoca pretty pet salon audio,animoca pretty pet salon sfx,animoca pretty pet salon sound effects,animoca audio,animoca sound effects,animoca sfx
+
+***
+
+Seanpm2001_Clash-of-Clans-session-screenshots_2024April7th
+
+Screenshots from my 2024, Sunday, April 7th Clash of Clans session, containing 437 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,clash,of,clans,clash of clans,clash of clans session,clash of clans gameplay,clash of clans images,clash of clans screenshots,images,screenshots,photos,pictures,supercell,supercell clash of clans,supercell games,gameplay,video games,mobile games,video game screenshots,2024,april,7th,april 7th,2024 april 7th,android,1080p,jpg,coc,horizontal screenshots,horizontal screenshot
+
+***
+
+Seanpm2001_Bit-City-session-screenshots_2024August6th
+
+Screenshots from my 2024, Tuesday, August 6th Bit City session, containing 638 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit city,nimblebit bit,nimblebit bit city,bit,city,bit city,bit city screenshots,bit city images,bit city pictures,bit city photos,1080p,jpg,bc,2024,august,6th,2024 august,2024 august 6th,august 6th,bit city gameplay,bit city session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
