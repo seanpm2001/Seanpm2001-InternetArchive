@@ -1,0 +1,33 @@
+
+***
+
+Internet Archive upload notes 2024, Wednesday August 14th
+
+***
+
+GParted-Developers_GParted-Live-1.6.0-3
+
+ISO file for GParted Live 1.6.0-3 (from 2024, April 8th) 
+
+gparted-live-1.6.0-3-amd64.iso
+
+iso,gparted,gparted developers,gparted live,live,livecd,disk image,2024 april 8th,gnome,gnu,gparted live 1.6.0-3,amd64,partition editor,partition,software,open source,open source software,foss,floss,64 bit,amd
+
+***
+
+Seanpm2001_Disco-Zoo-session-screenshots_2024August14th
+
+Screenshots from my 2024, Wednesday, August 14th Disco Zoo session, containing 8 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,milkbag games,milkbag games disco,milkbag games zoo,milkbag games disco zoo,milkbag games nimblebit,nimblebit,nimblebit zoo,nimblebit disco,nimblebit disco zoo,disco,zoo,disco zoo,disco zoo screenshots,disco zoo images,disco zoo pictures,disco zoo photos,1080p,jpg,dz,2024,august,14th,2024 august,2024 august 14th,august 14th,disco zoo gameplay,disco zoo session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Disco-Zoo-session-screenshots_2024April17th
+
+Screenshots from my 2024, Wednesday, April 17th Disco Zoo session, containing 10 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,milkbag games,milkbag games disco,milkbag games zoo,milkbag games disco zoo,milkbag games nimblebit,nimblebit,nimblebit zoo,nimblebit disco,nimblebit disco zoo,disco,zoo,disco zoo,disco zoo screenshots,disco zoo images,disco zoo pictures,disco zoo photos,1080p,jpg,dz,2024,april,17th,2024 april,2024 april 17th,april 17th,disco zoo gameplay,disco zoo session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
