@@ -1,0 +1,295 @@
+
+***
+
+Internet Archive upload notes 2024, Thursday August 22nd
+
+***
+
+GNU_Free-Software-Song
+
+The Free Software Song (1993) by GNU, along with various remixes. Spread the word!
+
+Files
+
+ABC
+
+sadi-moma.abc
+
+Bulgarian Style
+
+OGG
+
+Free_Software_Song_Bulgarian_Style.ogg
+
+Free as in rickrolled
+
+MP3
+
+c85d0c594de9cd97ff2fe2e3f4b027a7_freeasinrickrolled.mp3
+
+LilyPond
+
+free-software-song.ly
+
+Remixes
+
+Audacity
+
+AU
+
+free-software-song.au
+
+CatmooGNU
+
+(Nyan GNU)
+
+OGX
+
+Freedom-catmoognu.ogx
+
+Daniel Kelly
+
+MP3
+
+the_free_software_song-cover-by-daniel_kelly.mp3
+
+MP4
+
+the_free_software_song-cover-by-daniel_kelly.mp4
+
+OGG
+
+the_free_software_song-cover-by-daniel_kelly.ogg
+
+WEBM
+
+the_free_software_song-cover-by-daniel_kelly.webm
+
+Ecantorix
+
+OGG
+
+free-software-song-ecantorix.ogg
+
+Español
+
+OGX
+
+Free_Software_Song_en_español.ogx
+
+Fenster
+
+OGG
+
+Fenster-Free-Software-Song.ogg
+
+Herzog
+
+OGG
+
+free-software-song-herzog.ogg
+
+Kalimba
+
+OGG
+
+free-software-song-organ-kalimba.ogg
+
+Kareokee
+
+Iván Chavero y Renich - Canción del Software Libre - kareokee.ogg
+
+PDF
+
+free-software-song.pdf
+
+Rhythmic
+
+OGG
+
+free-software-song-rhythmic.ogg
+
+Stallman
+
+OGV
+
+stallman_free_software_song_320x240.ogv
+
+Sunnata
+
+OGG
+
+free_software_song_sunnata.ogg
+
+Other remixes
+
+freesoft.ogg
+Iván Chavero y Renich - Canción del Software Libre.ogg
+jonobacon-freesoftwaresong2.ogg
+loneload-free-software-song.ogg
+markushaist-free-software-song.ogg
+pjj-and-hairyone-freesoftwaresong.ogg
+SC_FSF.flac
+SC_FSF.ogg
+
+Other files
+
+Free-Software-Song_Lyrics.txt
+
+gnu,free,software,song,free software,free software song,song,music,audio,free software music,lilypond,gnu lilypond,audacity,au,ogg,flac,ogv,mp3,ogx,webm,mp4,pdf,abc,ly,txt,stallman,1993,1993 music,free software audio,free as in freedom,video,music video,free software music video,richard stallman,free software foundation,fsf,join us now and share the software,you'll be free hacker,you'll be free
+
+***
+
+GNU_Free-Software-Song-1993
+
+The Free Software Song (1993) by GNU, along with various remixes. Spread the word!
+
+Upload attempt 2, as Internet Archive doesn't support OGX files.
+
+Files
+
+ABC
+
+sadi-moma.abc
+
+Bulgarian Style
+
+OGG
+
+Free_Software_Song_Bulgarian_Style.ogg
+
+Free as in rickrolled
+
+MP3
+
+c85d0c594de9cd97ff2fe2e3f4b027a7_freeasinrickrolled.mp3
+
+LilyPond
+
+free-software-song.ly
+
+Remixes
+
+Audacity
+
+AU
+
+free-software-song.au
+
+CatmooGNU
+
+(Nyan GNU)
+
+OGX
+
+Freedom-catmoognu.ogx (removed)
+
+Daniel Kelly
+
+MP3
+
+the_free_software_song-cover-by-daniel_kelly.mp3
+
+MP4
+
+the_free_software_song-cover-by-daniel_kelly.mp4
+
+OGG
+
+the_free_software_song-cover-by-daniel_kelly.ogg
+
+WEBM
+
+the_free_software_song-cover-by-daniel_kelly.webm
+
+Ecantorix
+
+OGG
+
+free-software-song-ecantorix.ogg
+
+Español
+
+OGX
+
+Free_Software_Song_en_español.ogx (removed)
+
+Fenster
+
+OGG
+
+Fenster-Free-Software-Song.ogg
+
+Herzog
+
+OGG
+
+free-software-song-herzog.ogg
+
+Kalimba
+
+OGG
+
+free-software-song-organ-kalimba.ogg
+
+Kareokee
+
+Iván Chavero y Renich - Canción del Software Libre - kareokee.ogg
+
+PDF
+
+free-software-song.pdf
+
+Rhythmic
+
+OGG
+
+free-software-song-rhythmic.ogg
+
+Stallman
+
+OGV
+
+stallman_free_software_song_320x240.ogv
+
+Sunnata
+
+OGG
+
+free_software_song_sunnata.ogg
+
+Other remixes
+
+freesoft.ogg
+Iván Chavero y Renich - Canción del Software Libre.ogg
+jonobacon-freesoftwaresong2.ogg
+loneload-free-software-song.ogg
+markushaist-free-software-song.ogg
+pjj-and-hairyone-freesoftwaresong.ogg
+SC_FSF.flac
+SC_FSF.ogg
+
+Other files
+
+Free-Software-Song_Lyrics.txt
+
+gnu,free,software,song,free software,free software song,song,music,audio,free software music,lilypond,gnu lilypond,audacity,au,ogg,flac,ogv,mp3,webm,mp4,pdf,abc,ly,txt,stallman,1993,1993 music,free software audio,free as in freedom,video,music video,free software music video,richard stallman,free software foundation,fsf,join us now and share the software,you'll be free hacker,you'll be free
+
+***
+
+Seanpm2001_AdVenture-Capitalist-session-screenshots_2024February23rd
+
+Screenshots from my 2024, Saturday, February 23rd AdVenture Capitalist session, containing 1,445 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,hyperhippo,hyperhippo games,hyperhippo capitalist,hyperhippo games capitalist,hyperhippo capitalism,hyperhippo capitalist,hyperhippo adventure,hyperhippo games adventure,hyperhippo adventure capitalist,hyperhippo games adventure capitalist,hyperhippo adcap,hyperhippo games adcap,adventure,capitalist,capitalism,mock capitalism,clicker game,tapper game,idle game,adcap,adventure capitalist screenshots,adcap screenshots,adventure capitalist images,adcap images,adventure capitalist pictures,adcap pictures,adventure capitalist photos,adcap photos,1080p,jpg,ac,2024,february,23rd,2024 february,february 23rd,2024 february 23rd,adventure capitalist gameplay,adcap gameplay,adventure capitalist session,adapm session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Lego-Tower-session-screenshots_2024August22nd
+
+Screenshots from my 2024, Thursday, August 22nd Lego Tower session, containing 1,573 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit lego,nimblebit lego tower,lego,tower,lego tower,lego tower screenshots,lego tower images,lego tower pictures,lego tower photos,1080p,jpg,lt,2024,august,22nd,2024 august,2024 august 22nd,august 22nd,lego tower gameplay,lego tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
