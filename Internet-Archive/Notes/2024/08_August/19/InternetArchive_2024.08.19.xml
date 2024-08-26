@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Error><Code>SlowDown</Code><Message>Please reduce your request rate.</Message><Resource>bucket_tasks_queued exceeds rationed amount</Resource><RequestId>e6a705f1-0c58-4f0c-ae60-370436c68a86</RequestId></Error>
