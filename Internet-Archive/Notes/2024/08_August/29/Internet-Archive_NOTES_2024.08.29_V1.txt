@@ -1,0 +1,31 @@
+
+***
+
+Internet Archive upload notes 2024, Thursday, August 29th
+
+***
+
+Arianne-Project_Stendhal-1.47
+
+Version 1.47 of the free and open source game, Stendhal (2024, May 30th) note: 1 file was modified (log/stendhal.txt) to add a single space, as archive.org doesn't support 0 byte files. The ZIP file is unmodified, and I don't think there will be problems running the game with the modified file.
+
+stendhal,arianne project,arianne project stendhal,stendhal 1.47,source code,software,java,java game,free software,open source software,free and open source software,windows,macos,linux,linux game,macos game,windows game,2024 may 30th,2024
+
+***
+
+Seanpm2001_AdVenture-Capitalist-session-screenshots_2024January13th
+
+Screenshots from my 2024, Saturday, January 13th AdVenture Capitalist session, containing 492 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,hyperhippo,hyperhippo games,hyperhippo capitalist,hyperhippo games capitalist,hyperhippo capitalism,hyperhippo capitalist,hyperhippo adventure,hyperhippo games adventure,hyperhippo adventure capitalist,hyperhippo games adventure capitalist,hyperhippo adcap,hyperhippo games adcap,adventure,capitalist,capitalism,mock capitalism,clicker game,tapper game,idle game,adcap,adventure capitalist screenshots,adcap screenshots,adventure capitalist images,adcap images,adventure capitalist pictures,adcap pictures,adventure capitalist photos,adcap photos,1080p,jpg,ac,2024,january,13th,2024 january,january 13th,2024 january 13th,adventure capitalist gameplay,adcap gameplay,adventure capitalist session,adcap session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Lego-Tower-session-screenshots_2024August29th
+
+Screenshots from my 2024, Thursday, August 29th Lego Tower session, containing 1,517 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit lego,nimblebit lego tower,lego,tower,lego tower,lego tower screenshots,lego tower images,lego tower pictures,lego tower photos,1080p,jpg,lt,2024,august,29th,2024 august,2024 august 29th,august 29th,lego tower gameplay,lego tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
