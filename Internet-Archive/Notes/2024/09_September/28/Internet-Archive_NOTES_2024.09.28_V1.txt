@@ -1,0 +1,44 @@
+
+***
+
+Internet Archive upload notes 2024, Saturday, September 28th
+
+_Doing 3 uploads today._
+
+_UPDATE: Due to severe rate limiting issues, only 2 uploads were done today, and were only partially completed. It would be foolish to attempt a third upload today, so I am skipping it._
+
+```xml
+<?xml version='1.0' encoding='UTF-8'?>
+<Error><Code>SlowDown</Code><Message>Please reduce your request rate.</Message><Resource>bucket_tasks_queued exceeds bucket_limit amount</Resource><RequestId>c879b2da-4392-40ee-b92f-5f09fa54f22e</RequestId></Error>
+```
+
+***
+
+Seanpm2001_Bit-City-session-screenshots_2024January23rd
+
+Screenshots from my 2024, Tuesday, January 23rd Bit City session, containing 349 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit city,nimblebit bit,nimblebit bit city,bit,city,bit city,bit city screenshots,bit city images,bit city pictures,bit city photos,1080p,jpg,bc,2024,january,23rd,2024 january,2024 january 23rd,january 23rd,january 2024,bit city gameplay,bit city session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+Seanpm2001_Lego-Tower-session-screenshots_2024September26th
+
+Screenshots from my 2024, Thursday, September 26th Lego Tower session, containing 1,644 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit tower,nimblebit lego,nimblebit lego tower,lego,tower,lego tower,lego tower screenshots,lego tower images,lego tower pictures,lego tower photos,1080p,jpg,lt,2024,september,26th,2024 september,2024 september 26th,september 26th,lego tower gameplay,lego tower session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+***
+
+SKIPPED
+
+Seanpm2001_Tiny-Death-Star-session-screenshots_2024September27th
+
+Screenshots from my 2024, Friday, September 27th Tiny Death Star session, containing 2,013 images in JPG format. All images are in 1080p resolution.
+
+seanpm2001,nimblebit,nimblebit death,nimblebit tiny,nimblebit star,nimblebit tiny death star,death star,star wars,star wars death star,star wars tiny death star,death,star,star wars tiny death star,nimblebit star wars tiny death star,tiny death star screenshots,tiny death star images,tiny death star pictures,tiny death star photos,1080p,jpg,tds,2024,september,27th,2024 september,2024 september 27th,september 27th,tiny death star gameplay,tiny death star session,photos,pictures,images,screenshots,video games,mobile games,mobile video games,video game screenshots,mobile game screenshots,vertical screenshots,vertical screenshot
+
+SKIPPED
+
+***
+
