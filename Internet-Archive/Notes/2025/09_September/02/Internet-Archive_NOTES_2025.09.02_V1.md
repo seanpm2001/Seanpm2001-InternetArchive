@@ -1,0 +1,467 @@
+
+***
+
+# Internet Archive upload notes 2025, Tuesday, September 2nd
+
+No uploads were attemped today. I have not uploaded to the Internet Archive in `339` days (since 2024, September 28th)
+
+<table>
+  <tr>
+    <td>
+
+- Last upload: 2024, September 28th
+- First day without uploads: 2024, September 29th
+- Day 2: 2024, September 30th
+- Day 3: 2024, October 1st
+- Day 4: 2024, October 2nd
+- Day 5: 2024, October 3rd
+- Day 6: 2024, October 4th
+- Day 7: 2024, October 5th
+- Day 8: 2024, October 6th
+- Day 9: 2024, October 7th
+- Day 10: 2024, October 8th
+- Day 11: 2024, October 9th (site down, day 1)
+- Day 12: 2024, October 10th (site down, day 2)
+- Day 13: 2024, October 11th (site down, day 3)
+- Day 14: 2024, October 12th (site down, day 4)
+- Day 15: 2024, October 13th (site down, day 5)
+- Day 16: 2024, October 14th (site down, day 6)
+- Day 17: 2024, October 15th (site down, day 7)
+- Day 18: 2024, October 16th (site down, day 8)
+- Day 19: 2024, October 17th (site down, day 9)
+- Day 20: 2024, October 18th (site down, day 10)
+- Day 21: 2024, October 19th (site down, day 11)
+- Day 22: 2024, October 20th (site down, day 12)
+- Day 23: 2024, October 21st (site down, day 13)
+- Day 24: 2024, October 22nd (site down, day 14)
+- Day 25: 2024, October 23rd (site down, day 15)
+- Day 26: 2024, October 24th
+- Day 27: 2024, October 25th (site down, day 1)
+- Day 28: 2024, October 26th (site down, day 2)
+- Day 29: 2024, October 27th (site down, day 3)
+- Day 30: 2024, October 28th (site down, day 4)
+- Day 31: 2024, October 29th (site down, day 5)
+- Day 32: 2024, October 30th (site down, day 6)
+- Day 33: 2024, October 31st (site down, day 7)
+- Day 34: 2024, November 1st (site down, day 8)
+- Day 35: 2024, November 2nd (site down, day 9)
+- Day 36: 2024, November 3rd (site down, day 10)
+- Day 37: 2024, November 4th (site down, day 11)
+- Day 38: 2024, November 5th (site down, day 12)
+- Day 39: 2024, November 6th (site down, day 13) (Not known if site is actually up or not)
+- Day 40: 2024, November 7th (site down, day 14) (Not known if site is actually up or not)
+- Day 41: 2024, November 8th (site down, day 15) (Not known if site is actually up or not)
+- Day 42: 2024, November 9th (site down, day 16) (Not known if site is actually up or not)
+- Day 43: 2024, November 10th (site down, day 17) (Not known if site is actually up or not)
+- Day 44: 2024, November 11th (site down, day 18) (Not known if site is actually up or not)
+- Day 45: 2024, November 12th (site down, day 19) (Not known if site is actually up or not)
+- Day 46: 2024, November 13th (site down, day 20) (Not known if site is actually up or not)
+- Day 47: 2024, November 14th (site down, day 21) (Not known if site is actually up or not)
+- Day 48: 2024, November 15th (site down, day 22) (Not known if site is actually up or not)
+- Day 49: 2024, November 16th (site down, day 23) (Not known if site is actually up or not)
+- Day 50: 2024, November 17th (site down, day 24) (Not known if site is actually up or not)
+- Day 51: 2024, November 18th (site down, day 25) (Not known if site is actually up or not)
+- Day 52: 2024, November 19th (site down, day 26) (Not known if site is actually up or not)
+- Day 53: 2024, November 20th (site down, day 27)
+- Day 54: 2024, November 21st (site down, day 28)
+- Day 55: 2024, November 22nd (site down, day 29)
+- Day 56: 2024, November 23rd (site down, day 30)
+- Day 57: 2024, November 24th (site down, day 31)
+- Day 58: 2024, November 25th (site down, day 32)
+- Day 59: 2024, November 26th (site is finally back up!)
+- Day 60: 2024, November 27th
+- Day 61: 2024, November 28th
+- Day 62: 2024, November 29th
+- Day 63: 2024, November 30th
+- Day 64: 2024, December 1st
+- Day 65: 2024, December 2nd
+- Day 66: 2024, December 3rd
+- Day 67: 2024, December 4th
+- Day 68: 2024, December 5th
+- Day 69: 2024, December 6th
+- Day 70: 2024, December 7th
+- Day 71: 2024, December 8th
+- Day 72: 2024, December 9th
+- Day 73: 2024, December 10th
+- Day 74: 2024, December 11th
+- Day 75: 2024, December 12th
+- Day 76: 2024, December 13th
+- Day 77: 2024, December 14th
+- Day 78: 2024, December 15th
+- Day 79: 2024, December 16th
+- Day 80: 2024, December 17th
+- Day 81: 2024, December 18th
+- Day 82: 2024, December 19th
+- Day 83: 2024, December 20th
+- Day 84: 2024, December 21st
+- Day 85: 2024, December 22nd
+- Day 86: 2024, December 23rd
+- Day 87: 2024, December 24th
+- Day 88: 2024, December 25th
+- Day 89: 2024, December 26th
+- Day 90: 2024, December 27th
+- Day 91: 2024, December 28th
+- Day 92: 2024, December 29th
+- Day 93: 2024, December 30th
+- Day 94: 2024, December 31st
+- Day 95: 2025, January 1st
+- Day 96: 2025, January 2nd
+- Day 97: 2025, January 3rd
+- Day 98: 2025, January 4th
+- Day 99: 2025, January 5th
+- Day 100: 2025, January 6th
+- Day 101: 2025, January 7th
+- Day 102: 2025, January 8th
+- Day 103: 2025, January 9th
+- Day 104: 2025, January 10th
+- Day 105: 2025, January 11th
+- Day 106: 2025, January 12th
+- Day 107: 2025, January 13th
+- Day 108: 2025, January 14th
+- Day 109: 2025, January 15th
+- Day 110: 2025, January 16th
+- Day 111: 2025, January 17th
+- Day 112: 2025, January 18th
+- Day 113: 2025, January 19th
+- Day 114: 2025, January 20th
+- Day 115: 2025, January 21st
+- Day 116: 2025, January 22nd
+- Day 117: 2025, January 23rd
+- Day 118: 2025, January 24th
+- Day 119: 2025, January 25th
+- Day 120: 2025, January 26th
+- Day 121: 2025, January 27th
+- Day 122: 2025, January 28th
+- Day 123: 2025, January 29th
+- Day 124: 2025, January 30th
+- Day 125: 2025, January 31st
+- Day 126: 2025, February 1st
+- Day 127: 2025, February 2nd
+- Day 128: 2025, February 3rd
+- Day 129: 2025, February 4th
+- Day 130: 2025, February 5th
+- Day 131: 2025, February 6th
+- Day 132: 2025, February 7th
+- Day 133: 2025, February 8th
+- Day 134: 2025, February 9th
+- Day 135: 2025, February 10th
+- Day 136: 2025, February 11th
+- Day 137: 2025, February 12th
+- Day 138: 2025, February 13th
+- Day 139: 2025, February 14th
+- Day 140: 2025, February 15th
+- Day 141: 2025, February 16th
+- Day 142: 2025, February 17th
+- Day 143: 2025, February 18th
+- Day 144: 2025, February 19th
+- Day 145: 2025, February 20th
+- Day 146: 2025, February 21st
+- Day 147: 2025, February 22nd
+- Day 148: 2025, February 23rd
+- Day 149: 2025, February 24th
+- Day 150: 2025, February 25th
+- Day 151: 2025, February 26th
+- Day 152: 2025, February 27th
+- Day 153: 2025, February 28th
+- Day 154: 2025, March 1st
+- Day 155: 2025, March 2nd
+- Day 156: 2025, March 3rd
+- Day 157: 2025, March 4th
+- Day 158: 2025, March 5th
+- Day 159: 2025, March 6th
+- Day 160: 2025, March 7th
+- Day 161: 2025, March 8th
+- Day 162: 2025, March 9th
+- Day 163: 2025, March 10th
+- Day 164: 2025, March 11th
+- Day 165: 2025, March 12th
+- Day 166: 2025, March 13th
+- Day 167: 2025, March 14th
+- Day 168: 2025, March 15th
+- Day 169: 2025, March 16th
+- Day 170: 2025, March 17th
+- Day 171: 2025, March 18th
+- Day 172: 2025, March 19th
+- Day 173: 2025, March 20th
+- Day 174: 2025, March 21st
+- Day 175: 2025, March 22nd
+- Day 176: 2025, March 23rd
+- Day 177: 2025, March 24th
+- Day 178: 2025, March 25th
+- Day 179: 2025, March 26th (site down for maintenance)
+- Day 180: 2025, March 27th
+- Day 181: 2025, March 28th
+- Day 182: 2025, March 29th
+- Day 183: 2025, March 30th
+- Day 184: 2025, March 31st
+- Day 185: 2025, April 1st
+- Day 186: 2025, April 2nd
+- Day 187: 2025, April 3rd
+- Day 188: 2025, April 4th
+- Day 189: 2025, April 5th
+- Day 190: 2025, April 6th
+- Day 191: 2025, April 7th
+- Day 192: 2025, April 8th
+- Day 193: 2025, April 9th
+- Day 194: 2025, April 10th
+- Day 195: 2025, April 11th
+- Day 196: 2025, April 12th
+- Day 197: 2025, April 13th
+- Day 198: 2025, April 14th
+- Day 199: 2025, April 15th
+- Day 200: 2025, April 16th
+- Day 201: 2025, April 17th
+- Day 202: 2025, April 18th
+- Day 203: 2025, April 19th
+- Day 204: 2025, April 20th
+- Day 205: 2025, April 21st
+- Day 206: 2025, April 22nd
+- Day 207: 2025, April 23rd
+- Day 208: 2025, April 24th
+- Day 209: 2025, April 25th
+- Day 210: 2025, April 26th
+- Day 211: 2025, April 27th
+- Day 212: 2025, April 28th
+- Day 213: 2025, April 29th
+- Day 214: 2025, April 30th
+- Day 215: 2025, May 1st
+- Day 216: 2025, May 2nd
+- Day 217: 2025, May 3rd
+- Day 218: 2025, May 4th
+- Day 219: 2025, May 5th
+- Day 220: 2025, May 6th
+- Day 221: 2025, May 7th
+- Day 222: 2025, May 8th
+- Day 223: 2025, May 9th
+- Day 224: 2025, May 10th
+- Day 225: 2025, May 11th
+- Day 226: 2025, May 12th
+- Day 227: 2025, May 13th
+- Day 228: 2025, May 14th
+- Day 229: 2025, May 15th
+- Day 230: 2025, May 16th
+- Day 231: 2025, May 17th
+- Day 232: 2025, May 18th
+- Day 233: 2025, May 19th
+- Day 234: 2025, May 20th
+- Day 235: 2025, May 21st
+- Day 236: 2025, May 22nd
+- Day 237: 2025, May 23rd
+- Day 238: 2025, May 24th
+- Day 239: 2025, May 25th
+- Day 240: 2025, May 26th
+- Day 241: 2025, May 27th
+- Day 242: 2025, May 28th
+- Day 243: 2025, May 29th
+- Day 244: 2025, May 30th
+- Day 245: 2025, May 31st
+- Day 246: 2025, June 1st
+- Day 247: 2025, June 2nd
+- Day 248: 2025, June 3rd
+- Day 249: 2025, June 4th
+- Day 250: 2025, June 5th
+- Day 251: 2025, June 6th
+- Day 252: 2025, June 7th
+- Day 253: 2025, June 8th
+- Day 254: 2025, June 9th
+- Day 255: 2025, June 10th
+- Day 256: 2025, June 11th
+- Day 257: 2025, June 12th
+- Day 258: 2025, June 13th
+- Day 259: 2025, June 14th
+- Day 260: 2025, June 15th
+- Day 261: 2025, June 16th
+- Day 262: 2025, June 17th
+- Day 263: 2025, June 18th
+- Day 264: 2025, June 19th
+- Day 265: 2025, June 20th
+- Day 266: 2025, June 21st
+- Day 267: 2025, June 22nd
+- Day 268: 2025, June 23rd
+- Day 269: 2025, June 24th
+- Day 270: 2025, June 25th
+- Day 271: 2025, June 26th
+- Day 272: 2025, June 27th
+- Day 273: 2025, June 28th
+- Day 274: 2025, June 29th
+- Day 275: 2025, June 30th
+- Day 276: 2025, July 1st
+- Day 277: 2025, July 2nd
+- Day 278: 2025, July 3rd
+- Day 279: 2025, July 4th
+- Day 280: 2025, July 5th
+- Day 281: 2025, July 6th
+- Day 282: 2025, July 7th
+- Day 283: 2025, July 8th
+- Day 284: 2025, July 9th
+- Day 285: 2025, July 10th
+- Day 286: 2025, July 11th
+- Day 287: 2025, July 12th
+- Day 288: 2025, July 13th
+- Day 289: 2025, July 14th
+- Day 290: 2025, July 15th
+- Day 291: 2025, July 16th
+- Day 292: 2025, July 17th
+- Day 293: 2025, July 18th
+- Day 294: 2025, July 19th
+- Day 295: 2025, July 20th
+- Day 296: 2025, July 21st
+- Day 297: 2025, July 22nd
+- Day 298: 2025, July 23rd
+- Day 299: 2025, July 24th
+- Day 300: 2025, July 25th
+- Day 301: 2025, July 26th
+- Day 302: 2025, July 27th
+- Day 303: 2025, July 28th
+- Day 304: 2025, July 29th
+- Day 305: 2025, July 30th
+- Day 306: 2025, July 31st
+- Day 307: 2025, August 1st
+- Day 308: 2025, August 2nd
+- Day 309: 2025, August 3rd
+- Day 310: 2025, August 4th
+- Day 311: 2025, August 5th
+- Day 312: 2025, August 6th
+- Day 313: 2025, August 7th
+- Day 314: 2025, August 8th
+- Day 315: 2025, August 9th
+- Day 316: 2025, August 10th
+- Day 317: 2025, August 11th
+- Day 318: 2025, August 12th
+- Day 319: 2025, August 13th
+- Day 320: 2025, August 14th
+- Day 321: 2025, August 15th
+- Day 322: 2025, August 16th
+- Day 323: 2025, August 17th
+- Day 324: 2025, August 18th
+- Day 325: 2025, August 19th
+- Day 326: 2025, August 20th
+- Day 327: 2025, August 21st
+- Day 328: 2025, August 22nd
+- Day 329: 2025, August 23rd
+- Day 330: 2025, August 24th
+- Day 331: 2025, August 25th
+- Day 332: 2025, August 26th
+- Day 333: 2025, August 27th
+- Day 334: 2025, August 28th
+- Day 335: 2025, August 29th
+- Day 336: 2025, August 30th
+- Day 337: 2025, August 31st
+- Day 338: 2025, September 1st
+- Day 339: 2025, September 2nd
+
+    </td>
+  </tr>
+</table>
+
+## Detailed timeline
+
+- On 2024, Wednesday, October 9th, the Internet Archive was hit with a massive DDoS (Distributed Denial of Service) attack, and 31 million accounts were affected in a data breach. As of writing this, the site is still mostly unresponsive, with partial functionality.
+- - As of 2024, Wednesday, October 23rd at 08:26 pm PST, the site is still down. It has now been down for `14` days. However, the Wayback Machine began to come back up around 1:00 pm on 2024, October 15th (in a read-only state) while the Internet Archive is still completely inaccessible (although the Wayback Machine is also very slow at the moment) the Wayback Machine went back down again on 2024, Friday, October 19th, and is still down.
+- - - The world has now gone nearly 2 full weeks without the Internet Archive. So many opportunities for progress have been lost.
+- - - - The Internet Archive briefly came back up around 2024, October 23rd, but quickly went back down again.
+- - - - - When the Internet Archive comes completely back up, I don't intend to upload anything for at least a week, but I do plan to continue using the Wayback Machine, update my lists, and browse the site normally.
+- - - - - - The Internet Archive came back up on 2024, October 24th, but login is impossible, a lot of content is broken, and the Wayback Machine is still down. I am so glad to finally see it back up.
+- - - - - - - The site went down again on 2024, October 25th, and hasn't come back up yet as of 2024, November 25th at 08:30 pm PST. However, the Wayback Machine is functional, despite being very, very slow. I have started to notice on 2024, November 6th that the site appears to be fully functional for some users as of early November (login, upload, download, and browsing functionality) however, I am still getting a `Timed Out` or `Sry.html` message whenever I try to connect. I checked on 2024, November 20th with a device that has never accessed the site, and found that it is still down.
+- - - - - - - - The site came back up on 2024, Tuesday, November 26th. I am still being cautious, and will not sign back in until at least tomorrow. The site coming back this afternoon came as a surprise to me, as it allowed all of my tabs to load. I have had way too many tabs build up, so I had to spend about 2 hours today clearing ~140 tabs. The tab count is still far too high. I plan to resume Wayback Machine uploads on Thursday, if the site is consistently working correctly.
+- - - - - - - - - The site was still up today (2024, Wednesday, November 27th) so I decided to log back in. I was really stressed about it initially, and held it off until 9:00 pm, but there were no issues logging in, and everything was fine. I plan to resume Wayback Machine crawls tomorrow.
+- - - - - - - - - - The site was still up today (2024, Thursday, November 28th) and I resumed Wayback Machine crawls. I was randomly logged out once today, and for some reason, a set of pages that I have been crawling claimed to be a `first archive` the site has now been functioning properly for 3 days.
+- - - - - - - - - - - The site was still up today, and has been up since 2024, Tuesday, November 26th. Only Wayback Machine crawling was done.
+- - - - - - - - - - - - The site was up still today, and I found a major issue: downloading individual files work, but downloading groups of files results in an error. An item with 37 files took several minutes to download, as files needed to be downloaded individually.
+- - - - - - - - - - - - - The site was up still today, and the download issue was still present. I am not going to be able to clear my Internet Archive tabs as quickly as I had hoped, at least until this is fixed.
+- - - - - - - - - - - - - - The site was up still today, but due to an issue with the Wayback Machine yesterday, where it claimed a rather obscure page had been captured 10,007 times before 4:00 pm, I didn't feel like using the Wayback Machine today, and didn't really even use the site today, as the download issue is also still present
+- - - - - - - - - - - - - - - The site was up today, there was another issue with the Wayback Machine. It now claimed that the page I tried to capture yesterday had been captured 11,294 times today before 3:00 pm. This has caused me to temporarily stop using the Wayback Machine. Due to issues with downloading on the Internet Archive, I did not feel like using the Internet Archive at all.
+- - - - - - - - - - - - - - - - The site was up today, due to issues on 2024, December 4th, I did not use the site at all today. - 2024, December 5th to 2024, December 31st
+- - - - - - - - - - - - - - - - - The site was up today, due to issues on 2024, December 4th, I did not use the site at all today. I am disappointed in this, as I missed doing crawls on New Years Eve, and have not done any crawls in quite some time. - 2025, January 1st
+- - - - - - - - - - - - - - - - - - The site was up today, due to issues on 2024, December 4th, I did not use the site at all today. - 2025, January 2nd to 2025, February 6th
+- - - - - - - - - - - - - - - - - - The site was up today, but due to issues on 2024, December 4th, I did not use the site at all today. On 2025, Thursday, February 6th, I resumed profile screenshots, after a very long hiatus. I unfortunately missed a lot of changes in stars, views, and downloads. - 2025, February 7th to 2025, March 13th
+- - - - - - - - - - - - - - - - - - - I have decided on 2025, February 17th to make Wednesday the weekly day where I gather Internet Archive profile screenshots.
+- - - - - - - - - - - - - - - - - - - - The site was up today, but I didn't use it, due to ongoing issues with download and upload functionality. I really want to get back to it eventually some day. I have items that have recently reached and surpassed 1,000 views/downloads. - 2025, Friday, March 14th to 2025, Tuesday, March 25th
+- - - - - - - - - - - - - - - - - - - - - The site went down today, on a day where I was needing to use it for a project. I am hoping this is just a maintenance outage, like the page metadata says, and not another long-term outage. - 2025, Wednesday, March 26th
+- - - - - - - - - - - - - - - - - - - - - - The site came back up today, and I was able to take weekly screenshots. I really miss being able to upload to this site. I am going to have to re-check download functionality sometime soon. - 2025, Thursday, March 27th
+- - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use the site. - 2025, Friday, March 28th to 2025, Tuesday, April 1st
+- - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I only used the site to get weekly screenshots. - 2025, Wednesday, April 2nd
+- - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use the site. - 2025, Thursday, April 3rd to 2025, Tuesday, April 8th
+- - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I really miss being able to upload to this site. I tested download functionality again today, and found that downloads are possible again. I don't know when this was fixed, but I am really glad that it is. - 2025, Wednesday, April 9th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. I am considering resuming downloads sometime soon. - 2025, Thursday, April 10th to 2025, Tuesday, April 15th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. - 2025, Wednesday, April 16th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. I am considering resuming downloads sometime soon. - 2025, Thursday, April 17th to 2025, Tuesday, April 22nd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. - 2025, Wednesday, April 23rd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. I am considering resuming downloads sometime very soon. - 2025, Thursday, April 24th to 2025, Friday, April 25th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I made some activity on my account, and also cleared 50 Internet Archive tabs today, after downloading nearly 21 gigabytes of data. I did not post anything today, however. - 2025, Saturday, April 26th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Sunday, April 27th to 2025, Tuesday, April 29th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. One of my items reached and surpassed 2,000 views/downloads, while a second item reached 1,000 views/downloads. I am unsure why these are so popular. - 2025, Wednesday, April 30th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, May 1st to 2025, Tuesday, May 6th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. - 2025, Wednesday, May 7th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, May 8th to 2025, Tuesday, May 13th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today. I did some downloads, but skipped my weekly pictures for today, due to severe personal issues. - 2025, Wednesday, May 14th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up again today. I did some more large downloads, and took the weekly pictures I was supposed to take yesterday. - 2025, Thursday, May 15th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Friday, May 16th to 2025, Tuesday, May 20th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I did not use the site other than this today. - 2025, Wednesday, May 21st
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, May 22nd to 2025, Tuesday, May 27th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I did not use the site other than this today. - 2025, Wednesday, May 28th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, May 29th to 2025, Tuesday, June 3rd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I did not use the site other than this today, although I was tempted to, as I recently backed up some old APK files from my PDA, and found some interesting, rare content. Unfortunately, uploads are likely still broken, and I didn't feel like testing it. Additionally, 6 of my items now have 1,000 or more views. - 2025, Wednesday, June 4th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, June 5th to 2025, Tuesday, June 10th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I did not use the site other than this today. - 2025, Wednesday, June 11th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, June 12th to 2025, Tuesday, June 17th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I did not use the site other than this today. There was an Internet outage this afternoon/evening, so I did this off of a Wi-Fi hot spot. - 2025, Wednesday, June 18th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, June 19th to 2025, Monday, June 23rd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - I briefly used the site to do a download today. - 2025, Tuesday, June 24th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I also did a couple of downloads today as well. - 2025, Wednesday, June 25th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, June 26th to 2025, Saturday, June 28th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I did 2 downloads. - 2025, Sunday June 29th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Monday, June 30th to 2025, Tuesday, July 1st
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I have noted for a few weeks now that my username and description isn't loading on my profile, it hasn't affected the main tab I use yet, because it still has cache, and hasn't been reloaded. - 2025, Wednesday, July 2nd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, July 3rd to 2025, Tuesday, July 8th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. - 2025, Wednesday, July 9th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, but I did not use it. - 2025, Thursday, July 10th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Friday, July 11th to 2025, Saturday, July 12th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, but continued to browse the site. - 2025, Sunday, July 13th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Monday, July 14th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site (as of 6:07 pm PST) - 2025, Tuesday, July 15th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots, and also do some more downloads. - 2025, Wednesday, July 16th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Thursday, July 17th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site (as of 6:55 pm PST) - 2025, Friday, July 18th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Saturday, July 19th to 2025, Sunday, July 20th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site (as of 6:03 pm PST) - 2025, Monday, July 21st
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Tuesday, July 22nd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  The site was up today, and I was able to take weekly screenshots. I also used it for some downloads. - 2025, Wednesday, July 23rd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads, which I plan to start later this evening. - 2025, Thursday, July 24th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, but did browse the site (as of 07:25 pm PST) - 2025, Friday, July 25th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Saturday, July 26th to 2025, Tuesday, July 29th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I did not do any downloads today. I plan to take a pause from large downloads for a while, until the hard drive situation changes. I still plan to do small (<2 gigabyte) downloads, although not often. I am also considering not doing downloads on Wednesdays anymore. - 2025, Wednesday, July 30th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site - 2025, Thursday, July 31st to 2025, Monday, August 4th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Tuesday, August 5th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site - 2025, Wednesday, August 6th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site - 2025, Thursday, August 7th to 2025, Saturday, August 9th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. - 2025, Sunday, August 10th to 2025, Tuesday, August 12th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I also resumed downloads, but plan to pause briefly in the coming days. - 2025, Wednesday, August 13th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I used it for some downloads. Downloads are going to pause soon. - 2025, Thursday, August 14th to 2025, Saturday, August 16th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site - 2025, Sunday, August 17th to 2025, Tuesday, August 19th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I browsed the site briefly, but did not do any downloads today, for a 4th consecutive day. - 2025, Wednesday, August 20th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site - 2025, Thursday, August 21st to 2025, Tuesday, August 26th
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - The site was up today, and I was able to take weekly screenshots. I browsed the site briefly, but did not do any downloads today, for an 11th consecutive day. - 2025, Wednesday, August 27th
+- - - - - - - - - - - - - - The site was up today, I paused downloads for now, and did not browse the site - 2025, Thursday, August 28th to 2025, Tuesday, September 2nd
+
+## Repository to-do
+
+Write and upload status entry files for all of the days archive.org was down, and no public activity was made (2024, October 29th to 2024, November 27th) for the following areas:
+
+- /Images/
+- - Web Archives
+- - Sort by last reviewed
+- - Sort by upload date
+- - Sort by view count
+- /Wayback Machine/
+- - Snapshots
+- - Images
+
+***
+
+# File info
+
+**File version:** `1 (2025, Tuesday, September 2nd at 02:33 pm PST)`
+
+***
+
